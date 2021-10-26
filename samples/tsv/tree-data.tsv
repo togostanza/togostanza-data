@@ -1,0 +1,45 @@
+id	value	label	children
+1	transcript_variant	Transcript variant	"2,19,25,29,30"
+2	coding_variant	Coding variant	"3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18"
+3	coding_sequence_variant	Coding sequence variant	
+4	feature_elongation	Feature elongation	
+5	feature_truncation	Feature truncation	
+6	frameshift_variant	Frameshift variant	
+7	incomplete_terminal_codon_variant	Incomplete terminal codon variant	
+8	inframe_deletion	Inframe deletion	
+9	inframe_insertion	Inframe insertion	
+10	missense_variant	Missense variant	
+11	NMD_transcript_variant	NMD transcript variant	
+12	protein_altering_variant	Protein altering variant	
+13	synonymous_variant	Synonymous variant	
+14	start_lost	Start lost	
+15	stop_gained	Stop gained	
+16	stop_lost	Stop lost	
+17	start_retained_variant	Start retained variant	
+18	stop_retained_variant	Stop retained variant	
+19		Non-coding variant	"20,21,22,23,24"
+20	3_prime_UTR_variant	3 prime UTR variant	
+21	5_prime_UTR_variant	5 prime UTR variant	43
+22	intron_variant	Intron variant	
+23	non_coding_transcript_exon_variant	Non coding transcript exon variant	
+24	non_coding_transcript_variant	Non coding transcript variant	
+25		Splice variant	"26,27,28"
+26	splice_acceptor_variant	Splice acceptor variant	
+27	splice_donor_variant	Splice donor variant	
+28	splice_region_variant	Splice region variant	
+29	transcript_ablation	Transcript ablation	
+30	transcript_amplification	Transcript amplification	
+31		Regulatory variant	"32,33,34,35,36,37,38"
+32	mature_miRNA_variant	Mature miRNA variant	
+33	regulatory_region_ablation	Regulatory region ablation	
+34	regulatory_region_amplification	Regulatory region amplification	
+35	regulatory_region_variant	Regulatory region variant	
+36	TF_binding_site_variant	TF binding site variant	
+37	TFBS_ablation	TFBS ablation	
+38	TFBS_amplification	TFBS amplification	
+39		Intergenic variant	"40,41,42"
+40	downstream_gene_variant	Downstream gene variant	
+41	intergenic_variant	Intergenic variant	
+42	upstream_gene_variant	Upstream gene variant	
+43	shine_dalgarno_sequence	Shine–Dalgarno sequence	44
+44	pyrimidine	Pyrimidine	
