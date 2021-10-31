@@ -51,3 +51,31 @@
   }
 ]
 ```
+
+## Set Data
+[sample JSON file](samples/json/set-data.json)
+
+[sample TSV file](samples/tsv/set-data.tsv)
+
+**details:**
+
+  - "set" is an array of IDs that a set contains
+  - "size" is the amount of that set
+
+**example:**
+```JSON
+[
+  {
+    "set": ["A"],
+    "size": 12
+  },
+  {
+    "set": ["B"],
+    "size": 12
+  },
+  {
+    "set": ["A", "B"],
+    "size": 2
+  }
+]
+```
