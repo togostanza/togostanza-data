@@ -53,9 +53,7 @@
 ```
 
 ## Set Data
-[sample JSON file](samples/json/set-data.json)
-
-[sample TSV file](samples/tsv/set-data.tsv)
+[sample JSON file](samples/json/3sets-data.json)
 
 **details:**
 
