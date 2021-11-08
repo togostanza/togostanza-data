@@ -158,7 +158,6 @@
     "id": 21,
     "value": "5_prime_UTR_variant",
     "label": "5 prime UTR variant",
-    "n": 1546374,
     "description": "A UTR variant of the 5' UTR",
     "parent": 19,
     "children": [43]
@@ -335,7 +334,7 @@
     "id": 44,
     "value": "pyrimidine",
     "label": "Pyrimidine",
-    "n": 500,
+    "n": 1546374,
     "description": "aromatic heterocyclic organic compound similar to pyridine",
     "parent": 43
   }
