@@ -334,8 +334,16 @@
     "id": 44,
     "value": "pyrimidine",
     "label": "Pyrimidine",
-    "n": 1546374,
     "description": "aromatic heterocyclic organic compound similar to pyridine",
-    "parent": 43
+    "parent": 43,
+    "children": [45]
+  },
+  {
+    "id": 45,
+    "value": "pyrimidine2",
+    "label": "Pyrimidine2 really long-long-long label",
+    "n": 1546374,
+    "description": "ribosomal binding site in bacterial and archaeal messenger RNA",
+    "parent": 44
   }
 ]
