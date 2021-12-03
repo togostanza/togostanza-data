@@ -342,8 +342,16 @@
     "id": 45,
     "value": "pyrimidine2",
     "label": "Pyrimidine2 really long-long-long label",
+    "description": "ribosomal binding site in bacterial and archaeal messenger RNA",
+    "parent": 44,
+    "children": [46]
+  },
+  {
+    "id": 46,
+    "value": "pyrimidine2",
+    "label": "Pyrimidine2 really long-long-long label 2",
     "n": 1546374,
     "description": "ribosomal binding site in bacterial and archaeal messenger RNA",
-    "parent": 44
+    "parent": 45
   }
 ]
