@@ -77,3 +77,29 @@
   }
 ]
 ```
+
+## Directed Graph Data
+[sample JSON file](samples/json/directed-graph-data.json)
+
+**details:**
+
+  - "source" is the starting point of the directed graph
+  - "target" is the endpoint of the directed graph
+  - "value" is the value of edge
+
+**example:**
+```JSON
+[
+  {
+    "source": "France",
+    "target": "Britain",
+    "value": 22.4
+  },
+  {
+    "source": "Greece",
+    "target": "Britain",
+    "value": 0.55
+  },
+  ...
+]
+```
