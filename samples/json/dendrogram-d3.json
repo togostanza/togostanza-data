@@ -21,7 +21,8 @@
     "name": "AgglomerativeCluster",
     "parent": 3,
     "size": 3938,
-    "group": "class4"
+    "group": "class4",
+    "color": "#B5184F"
   },
   {
     "id": 5,
@@ -55,7 +56,8 @@
     "name": "BetweennessCentrality",
     "parent": 8,
     "size": 3534,
-    "group": "class4"
+    "group": "class4",
+    "color": "#69A90D"
   },
   {
     "id": 10,
@@ -122,7 +124,8 @@
     "id": 19,
     "name": "interpolate",
     "parent": 16,
-    "group": "class3"
+    "group": "class3",
+    "color": "green"
   },
   {
     "id": 20,
@@ -260,7 +263,8 @@
     "id": 39,
     "name": "converters",
     "parent": 38,
-    "group": "class3"
+    "group": "class3",
+    "color": "navy"
   },
   {
     "id": 40,
