@@ -1,0 +1,695 @@
+[
+  {
+    "category": "Evidence at protein level",
+    "category_order": 0,
+    "chromosome": "1",
+    "chromosome_order": 0,
+    "count": "1859"
+  },
+  {
+    "category": "Evidence at transcript level",
+    "category_order": 1,
+    "chromosome": "1",
+    "chromosome_order": 0,
+    "count": "139"
+  },
+  {
+    "category": "Inferred from homology",
+    "category_order": 2,
+    "chromosome": "1",
+    "chromosome_order": 0,
+    "count": "21"
+  },
+  {
+    "category": "Predicted",
+    "category_order": 3,
+    "chromosome": "1",
+    "chromosome_order": 0,
+    "count": "2"
+  },
+  {
+    "category": "Uncertain",
+    "category_order": 4,
+    "chromosome": "1",
+    "chromosome_order": 0,
+    "count": "46"
+  },
+  {
+    "category": "Evidence at protein level",
+    "category_order": 0,
+    "chromosome": "2",
+    "chromosome_order": 1,
+    "count": "1228"
+  },
+  {
+    "category": "Evidence at transcript level",
+    "category_order": 1,
+    "chromosome": "2",
+    "chromosome_order": 1,
+    "count": "45"
+  },
+  {
+    "category": "Inferred from homology",
+    "category_order": 2,
+    "chromosome": "2",
+    "chromosome_order": 1,
+    "count": "3"
+  },
+  {
+    "category": "Predicted",
+    "category_order": 3,
+    "chromosome": "2",
+    "chromosome_order": 1,
+    "count": "1"
+  },
+  {
+    "category": "Uncertain",
+    "category_order": 4,
+    "chromosome": "2",
+    "chromosome_order": 1,
+    "count": "18"
+  },
+  {
+    "category": "Evidence at protein level",
+    "category_order": 0,
+    "chromosome": "3",
+    "chromosome_order": 2,
+    "count": "1005"
+  },
+  {
+    "category": "Evidence at transcript level",
+    "category_order": 1,
+    "chromosome": "3",
+    "chromosome_order": 2,
+    "count": "52"
+  },
+  {
+    "category": "Inferred from homology",
+    "category_order": 2,
+    "chromosome": "3",
+    "chromosome_order": 2,
+    "count": "5"
+  },
+  {
+    "category": "Uncertain",
+    "category_order": 4,
+    "chromosome": "3",
+    "chromosome_order": 2,
+    "count": "17"
+  },
+  {
+    "category": "Evidence at protein level",
+    "category_order": 0,
+    "chromosome": "4",
+    "chromosome_order": 3,
+    "count": "701"
+  },
+  {
+    "category": "Evidence at transcript level",
+    "category_order": 1,
+    "chromosome": "4",
+    "chromosome_order": 3,
+    "count": "35"
+  },
+  {
+    "category": "Inferred from homology",
+    "category_order": 2,
+    "chromosome": "4",
+    "chromosome_order": 3,
+    "count": "11"
+  },
+  {
+    "category": "Uncertain",
+    "category_order": 4,
+    "chromosome": "4",
+    "chromosome_order": 3,
+    "count": "22"
+  },
+  {
+    "category": "Evidence at protein level",
+    "category_order": 0,
+    "chromosome": "5",
+    "chromosome_order": 4,
+    "count": "835"
+  },
+  {
+    "category": "Evidence at transcript level",
+    "category_order": 1,
+    "chromosome": "5",
+    "chromosome_order": 4,
+    "count": "26"
+  },
+  {
+    "category": "Inferred from homology",
+    "category_order": 2,
+    "chromosome": "5",
+    "chromosome_order": 4,
+    "count": "2"
+  },
+  {
+    "category": "Uncertain",
+    "category_order": 4,
+    "chromosome": "5",
+    "chromosome_order": 4,
+    "count": "14"
+  },
+  {
+    "category": "Evidence at protein level",
+    "category_order": 0,
+    "chromosome": "6",
+    "chromosome_order": 5,
+    "count": "940"
+  },
+  {
+    "category": "Evidence at transcript level",
+    "category_order": 1,
+    "chromosome": "6",
+    "chromosome_order": 5,
+    "count": "54"
+  },
+  {
+    "category": "Inferred from homology",
+    "category_order": 2,
+    "chromosome": "6",
+    "chromosome_order": 5,
+    "count": "4"
+  },
+  {
+    "category": "Predicted",
+    "category_order": 3,
+    "chromosome": "6",
+    "chromosome_order": 5,
+    "count": "1"
+  },
+  {
+    "category": "Uncertain",
+    "category_order": 4,
+    "chromosome": "6",
+    "chromosome_order": 5,
+    "count": "30"
+  },
+  {
+    "category": "Evidence at protein level",
+    "category_order": 0,
+    "chromosome": "7",
+    "chromosome_order": 6,
+    "count": "863"
+  },
+  {
+    "category": "Evidence at transcript level",
+    "category_order": 1,
+    "chromosome": "7",
+    "chromosome_order": 6,
+    "count": "105"
+  },
+  {
+    "category": "Inferred from homology",
+    "category_order": 2,
+    "chromosome": "7",
+    "chromosome_order": 6,
+    "count": "6"
+  },
+  {
+    "category": "Predicted",
+    "category_order": 3,
+    "chromosome": "7",
+    "chromosome_order": 6,
+    "count": "1"
+  },
+  {
+    "category": "Uncertain",
+    "category_order": 4,
+    "chromosome": "7",
+    "chromosome_order": 6,
+    "count": "50"
+  },
+  {
+    "category": "Evidence at protein level",
+    "category_order": 0,
+    "chromosome": "8",
+    "chromosome_order": 7,
+    "count": "625"
+  },
+  {
+    "category": "Evidence at transcript level",
+    "category_order": 1,
+    "chromosome": "8",
+    "chromosome_order": 7,
+    "count": "34"
+  },
+  {
+    "category": "Inferred from homology",
+    "category_order": 2,
+    "chromosome": "8",
+    "chromosome_order": 7,
+    "count": "5"
+  },
+  {
+    "category": "Uncertain",
+    "category_order": 4,
+    "chromosome": "8",
+    "chromosome_order": 7,
+    "count": "38"
+  },
+  {
+    "category": "Evidence at protein level",
+    "category_order": 0,
+    "chromosome": "9",
+    "chromosome_order": 8,
+    "count": "706"
+  },
+  {
+    "category": "Evidence at transcript level",
+    "category_order": 1,
+    "chromosome": "9",
+    "chromosome_order": 8,
+    "count": "58"
+  },
+  {
+    "category": "Inferred from homology",
+    "category_order": 2,
+    "chromosome": "9",
+    "chromosome_order": 8,
+    "count": "4"
+  },
+  {
+    "category": "Uncertain",
+    "category_order": 4,
+    "chromosome": "9",
+    "chromosome_order": 8,
+    "count": "41"
+  },
+  {
+    "category": "Evidence at protein level",
+    "category_order": 0,
+    "chromosome": "10",
+    "chromosome_order": 9,
+    "count": "681"
+  },
+  {
+    "category": "Evidence at transcript level",
+    "category_order": 1,
+    "chromosome": "10",
+    "chromosome_order": 9,
+    "count": "47"
+  },
+  {
+    "category": "Predicted",
+    "category_order": 3,
+    "chromosome": "10",
+    "chromosome_order": 9,
+    "count": "1"
+  },
+  {
+    "category": "Uncertain",
+    "category_order": 4,
+    "chromosome": "10",
+    "chromosome_order": 9,
+    "count": "19"
+  },
+  {
+    "category": "Evidence at protein level",
+    "category_order": 0,
+    "chromosome": "11",
+    "chromosome_order": 10,
+    "count": "1069"
+  },
+  {
+    "category": "Evidence at transcript level",
+    "category_order": 1,
+    "chromosome": "11",
+    "chromosome_order": 10,
+    "count": "169"
+  },
+  {
+    "category": "Inferred from homology",
+    "category_order": 2,
+    "chromosome": "11",
+    "chromosome_order": 10,
+    "count": "53"
+  },
+  {
+    "category": "Uncertain",
+    "category_order": 4,
+    "chromosome": "11",
+    "chromosome_order": 10,
+    "count": "40"
+  },
+  {
+    "category": "Evidence at protein level",
+    "category_order": 0,
+    "chromosome": "12",
+    "chromosome_order": 11,
+    "count": "959"
+  },
+  {
+    "category": "Evidence at transcript level",
+    "category_order": 1,
+    "chromosome": "12",
+    "chromosome_order": 11,
+    "count": "52"
+  },
+  {
+    "category": "Inferred from homology",
+    "category_order": 2,
+    "chromosome": "12",
+    "chromosome_order": 11,
+    "count": "2"
+  },
+  {
+    "category": "Uncertain",
+    "category_order": 4,
+    "chromosome": "12",
+    "chromosome_order": 11,
+    "count": "23"
+  },
+  {
+    "category": "Evidence at protein level",
+    "category_order": 0,
+    "chromosome": "13",
+    "chromosome_order": 12,
+    "count": "311"
+  },
+  {
+    "category": "Evidence at transcript level",
+    "category_order": 1,
+    "chromosome": "13",
+    "chromosome_order": 12,
+    "count": "10"
+  },
+  {
+    "category": "Inferred from homology",
+    "category_order": 2,
+    "chromosome": "13",
+    "chromosome_order": 12,
+    "count": "1"
+  },
+  {
+    "category": "Uncertain",
+    "category_order": 4,
+    "chromosome": "13",
+    "chromosome_order": 12,
+    "count": "11"
+  },
+  {
+    "category": "Evidence at protein level",
+    "category_order": 0,
+    "chromosome": "14",
+    "chromosome_order": 13,
+    "count": "632"
+  },
+  {
+    "category": "Evidence at transcript level",
+    "category_order": 1,
+    "chromosome": "14",
+    "chromosome_order": 13,
+    "count": "75"
+  },
+  {
+    "category": "Inferred from homology",
+    "category_order": 2,
+    "chromosome": "14",
+    "chromosome_order": 13,
+    "count": "12"
+  },
+  {
+    "category": "Predicted",
+    "category_order": 3,
+    "chromosome": "14",
+    "chromosome_order": 13,
+    "count": "2"
+  },
+  {
+    "category": "Uncertain",
+    "category_order": 4,
+    "chromosome": "14",
+    "chromosome_order": 13,
+    "count": "14"
+  },
+  {
+    "category": "Evidence at protein level",
+    "category_order": 0,
+    "chromosome": "15",
+    "chromosome_order": 14,
+    "count": "535"
+  },
+  {
+    "category": "Evidence at transcript level",
+    "category_order": 1,
+    "chromosome": "15",
+    "chromosome_order": 14,
+    "count": "40"
+  },
+  {
+    "category": "Uncertain",
+    "category_order": 4,
+    "chromosome": "15",
+    "chromosome_order": 14,
+    "count": "31"
+  },
+  {
+    "category": "Evidence at protein level",
+    "category_order": 0,
+    "chromosome": "16",
+    "chromosome_order": 15,
+    "count": "773"
+  },
+  {
+    "category": "Evidence at transcript level",
+    "category_order": 1,
+    "chromosome": "16",
+    "chromosome_order": 15,
+    "count": "44"
+  },
+  {
+    "category": "Predicted",
+    "category_order": 3,
+    "chromosome": "16",
+    "chromosome_order": 15,
+    "count": "1"
+  },
+  {
+    "category": "Uncertain",
+    "category_order": 4,
+    "chromosome": "16",
+    "chromosome_order": 15,
+    "count": "25"
+  },
+  {
+    "category": "Evidence at protein level",
+    "category_order": 0,
+    "chromosome": "17",
+    "chromosome_order": 16,
+    "count": "1087"
+  },
+  {
+    "category": "Evidence at transcript level",
+    "category_order": 1,
+    "chromosome": "17",
+    "chromosome_order": 16,
+    "count": "55"
+  },
+  {
+    "category": "Inferred from homology",
+    "category_order": 2,
+    "chromosome": "17",
+    "chromosome_order": 16,
+    "count": "3"
+  },
+  {
+    "category": "Uncertain",
+    "category_order": 4,
+    "chromosome": "17",
+    "chromosome_order": 16,
+    "count": "24"
+  },
+  {
+    "category": "Evidence at protein level",
+    "category_order": 0,
+    "chromosome": "18",
+    "chromosome_order": 17,
+    "count": "255"
+  },
+  {
+    "category": "Evidence at transcript level",
+    "category_order": 1,
+    "chromosome": "18",
+    "chromosome_order": 17,
+    "count": "9"
+  },
+  {
+    "category": "Uncertain",
+    "category_order": 4,
+    "chromosome": "18",
+    "chromosome_order": 17,
+    "count": "11"
+  },
+  {
+    "category": "Evidence at protein level",
+    "category_order": 0,
+    "chromosome": "19",
+    "chromosome_order": 18,
+    "count": "1318"
+  },
+  {
+    "category": "Evidence at transcript level",
+    "category_order": 1,
+    "chromosome": "19",
+    "chromosome_order": 18,
+    "count": "79"
+  },
+  {
+    "category": "Inferred from homology",
+    "category_order": 2,
+    "chromosome": "19",
+    "chromosome_order": 18,
+    "count": "8"
+  },
+  {
+    "category": "Uncertain",
+    "category_order": 4,
+    "chromosome": "19",
+    "chromosome_order": 18,
+    "count": "31"
+  },
+  {
+    "category": "Evidence at protein level",
+    "category_order": 0,
+    "chromosome": "20",
+    "chromosome_order": 19,
+    "count": "504"
+  },
+  {
+    "category": "Evidence at transcript level",
+    "category_order": 1,
+    "chromosome": "20",
+    "chromosome_order": 19,
+    "count": "31"
+  },
+  {
+    "category": "Uncertain",
+    "category_order": 4,
+    "chromosome": "20",
+    "chromosome_order": 19,
+    "count": "14"
+  },
+  {
+    "category": "Evidence at protein level",
+    "category_order": 0,
+    "chromosome": "21",
+    "chromosome_order": 20,
+    "count": "204"
+  },
+  {
+    "category": "Evidence at transcript level",
+    "category_order": 1,
+    "chromosome": "21",
+    "chromosome_order": 20,
+    "count": "27"
+  },
+  {
+    "category": "Inferred from homology",
+    "category_order": 2,
+    "chromosome": "21",
+    "chromosome_order": 20,
+    "count": "2"
+  },
+  {
+    "category": "Uncertain",
+    "category_order": 4,
+    "chromosome": "21",
+    "chromosome_order": 20,
+    "count": "21"
+  },
+  {
+    "category": "Evidence at protein level",
+    "category_order": 0,
+    "chromosome": "22",
+    "chromosome_order": 21,
+    "count": "455"
+  },
+  {
+    "category": "Evidence at transcript level",
+    "category_order": 1,
+    "chromosome": "22",
+    "chromosome_order": 21,
+    "count": "23"
+  },
+  {
+    "category": "Inferred from homology",
+    "category_order": 2,
+    "chromosome": "22",
+    "chromosome_order": 21,
+    "count": "5"
+  },
+  {
+    "category": "Uncertain",
+    "category_order": 4,
+    "chromosome": "22",
+    "chromosome_order": 21,
+    "count": "22"
+  },
+  {
+    "category": "Evidence at protein level",
+    "category_order": 0,
+    "chromosome": "X",
+    "chromosome_order": 22,
+    "count": "764"
+  },
+  {
+    "category": "Evidence at transcript level",
+    "category_order": 1,
+    "chromosome": "X",
+    "chromosome_order": 22,
+    "count": "51"
+  },
+  {
+    "category": "Uncertain",
+    "category_order": 4,
+    "chromosome": "X",
+    "chromosome_order": 22,
+    "count": "32"
+  },
+  {
+    "category": "Evidence at protein level",
+    "category_order": 0,
+    "chromosome": "Y",
+    "chromosome_order": 23,
+    "count": "37"
+  },
+  {
+    "category": "Evidence at transcript level",
+    "category_order": 1,
+    "chromosome": "Y",
+    "chromosome_order": 23,
+    "count": "3"
+  },
+  {
+    "category": "Uncertain",
+    "category_order": 4,
+    "chromosome": "Y",
+    "chromosome_order": 23,
+    "count": "7"
+  },
+  {
+    "category": "Evidence at protein level",
+    "category_order": 0,
+    "chromosome": "MT",
+    "chromosome_order": 24,
+    "count": "15"
+  },
+  {
+    "category": "Evidence at protein level",
+    "category_order": 0,
+    "chromosome": "unknown",
+    "chromosome_order": 25,
+    "count": "2"
+  },
+  {
+    "category": "Evidence at transcript level",
+    "category_order": 1,
+    "chromosome": "unknown",
+    "chromosome_order": 25,
+    "count": "2"
+  }
+]
