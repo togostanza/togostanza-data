@@ -1,999 +1,259 @@
-
 [
-  {
-    "id": "004",
-    "rate": 0.9
-  },
-  {
-    "id": "008",
-    "rate": 0.2
-  },
-  {
-    "id": "010",
-    "rate": 0.9
-  },
-  {
-    "id": "012",
-    "rate": 0.9
-  },
-  {
-    "id": "016",
-    "rate": 0.9
-  },
-  {
-    "id": "020",
-    "rate": 0.4
-  },
-  {
-    "id": "024",
-    "rate": 0.9
-  },
-  {
-    "id": "028",
-    "rate": 0.9
-  },
-  {
-    "id": "031",
-    "rate": 0.5
-  },
-  {
-    "id": "032",
-    "rate": 0.5
-  },
-  {
-    "id": "036",
-    "rate": 0.5
-  },
-  {
-    "id": "040",
-    "rate": 0.9
-  },
-  {
-    "id": "044",
-    "rate": 0.9
-  },
-  {
-    "id": "048",
-    "rate": 0.7
-  },
-  {
-    "id": "050",
-    "rate": 0.9
-  },
-  {
-    "id": "051",
-    "rate": 0.9
-  },
-  {
-    "id": "052",
-    "rate": 0.9
-  },
-  {
-    "id": "056",
-    "rate": 0.3
-  },
-  {
-    "id": "060",
-    "rate": 0.3
-  },
-  {
-    "id": "064",
-    "rate": 0.3
-  },
-  {
-    "id": "068",
-    "rate": 0.9
-  },
-  {
-    "id": "070",
-    "rate": 0.9
-  },
-  {
-    "id": "072",
-    "rate": 0.9
-  },
-  {
-    "id": "074",
-    "rate": 0.2
-  },
-  {
-    "id": "076",
-    "rate": 0.2
-  },
-  {
-    "id": "084",
-    "rate": 0.2
-  },
-  {
-    "id": "086",
-    "rate": 0.9
-  },
-  {
-    "id": "090",
-    "rate": 0.9
-  },
-  {
-    "id": "092",
-    "rate": 0.9
-  },
-  {
-    "id": "096",
-    "rate": 0.6
-  },
-  {
-    "id": "100",
-    "rate": 0.6
-  },
-  {
-    "id": "104",
-    "rate": 0.6
-  },
-  {
-    "id": "108",
-    "rate": 0.6
-  },
-  {
-    "id": "112",
-    "rate": 0.6
-  },
-  {
-    "id": "116",
-    "rate": 0.7
-  },
-  {
-    "id": "120",
-    "rate": 0.7
-  },
-  {
-    "id": "124",
-    "rate": 0.7
-  },
-  {
-    "id": "132",
-    "rate": 0.7
-  },
-  {
-    "id": "136",
-    "rate": 0.7
-  },
-  {
-    "id": "140",
-    "rate": 0.3
-  },
-  {
-    "id": "144",
-    "rate": 0.3
-  },
-  {
-    "id": "148",
-    "rate": 0.3
-  },
-  {
-    "id": "152",
-    "rate": 0.3
-  },
-  {
-    "id": "156",
-    "rate": 0.3
-  },
-  {
-    "id": "158",
-    "rate": 0.4
-  },
-  {
-    "id": "162",
-    "rate": 0.4
-  },
-  {
-    "id": "166",
-    "rate": 0.4
-  },
-  {
-    "id": "170",
-    "rate": 0.4
-  },
-  {
-    "id": "174",
-    "rate": 0.4
-  },
-  {
-    "id": "175",
-    "rate": 0.22
-  },
-  {
-    "id": "178",
-    "rate": 0.22
-  },
-  {
-    "id": "180",
-    "rate": 0.22
-  },
-  {
-    "id": "184",
-    "rate": 0.22
-  },
-  {
-    "id": "188",
-    "rate": 0.22
-  },
-  {
-    "id": "191",
-    "rate": 0.28
-  },
-  {
-    "id": "192",
-    "rate": 0.28
-  },
-  {
-    "id": "196",
-    "rate": 0.28
-  },
-  {
-    "id": "203",
-    "rate": 0.28
-  },
-  {
-    "id": "204",
-    "rate": 0.48
-  },
-  {
-    "id": "208",
-    "rate": 0.48
-  },
-  {
-    "id": "212",
-    "rate": 0.48
-  },
-  {
-    "id": "214",
-    "rate": 0.48
-  },
-  {
-    "id": "218",
-    "rate": 0.48
-  },
-  {
-    "id": "222",
-    "rate": 0.48
-  },
-  {
-    "id": "226",
-    "rate": 0.455
-  },
-  {
-    "id": "231",
-    "rate": 0.455
-  },
-  {
-    "id": "232",
-    "rate": 0.455
-  },
-  {
-    "id": "233",
-    "rate": 0.555
-  },
-  {
-    "id": "234",
-    "rate": 0.55
-  },
-  {
-    "id": "238",
-    "rate": 0.55
-  },
+  { "id": "004", "name": "Afghanistan", "rate": 0.9 },
+  { "id": "008", "name": "Albania", "rate": 0.2 },
+  { "id": "010", "name": "Antarctica", "rate": 0.9 },
+  { "id": "012", "name": "Algeria", "rate": 0.9 },
+  { "id": "016", "name": "American Samoa", "rate": 0.9 },
+  { "id": "020", "name": "Andorra", "rate": 0.4 },
+  { "id": "024", "name": "Angola", "rate": 0.9 },
+  { "id": "028", "name": "Antigua and Barbuda", "rate": 0.9 },
+  { "id": "031", "name": "Azerbaijan", "rate": 0.5 },
+  { "id": "032", "name": "Argentina", "rate": 0.5 },
+  { "id": "036", "name": "Australia", "rate": 0.5 },
+  { "id": "040", "name": "Austria", "rate": 0.9 },
+  { "id": "044", "name": "Bahamas", "rate": 0.9 },
+  { "id": "048", "name": "Bahrain", "rate": 0.7 },
+  { "id": "050", "name": "Bangladesh", "rate": 0.9 },
+  { "id": "051", "name": "Armenia", "rate": 0.9 },
+  { "id": "052", "name": "Barbados", "rate": 0.9 },
+  { "id": "056", "name": "Belgium", "rate": 0.3 },
+  { "id": "060", "name": "Bermuda", "rate": 0.3 },
+  { "id": "064", "name": "Bhutan", "rate": 0.3 },
+  { "id": "068", "name": "Bolivia", "rate": 0.9 },
+  { "id": "070", "name": "Bosnia and Herz.", "rate": 0.9 },
+  { "id": "072", "name": "Botswana", "rate": 0.9 },
+  { "id": "074", "name": "Bouvet Island", "rate": 0.2 },
+  { "id": "076", "name": "Brazil", "rate": 0.2 },
+  { "id": "084", "name": "Belize", "rate": 0.2 },
+  { "id": "086", "name": "British Indian Ocean Territory", "rate": 0.9 },
+  { "id": "090", "name": "Solomon Is.", "rate": 0.9 },
+  { "id": "092", "name": "Virgin Islands (British)", "rate": 0.9 },
+  { "id": "096", "name": "Brunei", "rate": 0.6 },
+  { "id": "100", "name": "Bulgaria", "rate": 0.6 },
+  { "id": "104", "name": "Myanmar", "rate": 0.6 },
+  { "id": "108", "name": "Burundi", "rate": 0.6 },
+  { "id": "112", "name": "Belarus", "rate": 0.6 },
+  { "id": "116", "name": "Cambodia", "rate": 0.7 },
+  { "id": "120", "name": "Cameroon", "rate": 0.7 },
+  { "id": "124", "name": "Canada", "rate": 0.7 },
+  { "id": "132", "name": "Cabo Verde", "rate": 0.7 },
+  { "id": "136", "name": "Cayman Islands", "rate": 0.7 },
+  { "id": "140", "name": "Central African Rep.", "rate": 0.3 },
+  { "id": "144", "name": "Sri Lanka", "rate": 0.3 },
+  { "id": "148", "name": "Chad", "rate": 0.3 },
+  { "id": "152", "name": "Chile", "rate": 0.3 },
+  { "id": "156", "name": "China", "rate": 0.3 },
+  { "id": "158", "name": "Taiwan", "rate": 0.4 },
+  { "id": "162", "name": "Christmas Island", "rate": 0.4 },
+  { "id": "166", "name": "Cocos (Keeling) Islands", "rate": 0.4 },
+  { "id": "170", "name": "Colombia", "rate": 0.4 },
+  { "id": "174", "name": "Comoros", "rate": 0.4 },
+  { "id": "175", "name": "Mayotte", "rate": 0.22 },
+  { "id": "178", "name": "Congo", "rate": 0.22 },
+  { "id": "180", "name": "Dem. Rep. Congo", "rate": 0.22 },
+  { "id": "184", "name": "Cook Islands", "rate": 0.22 },
+  { "id": "188", "name": "Costa Rica", "rate": 0.22 },
+  { "id": "191", "name": "Croatia", "rate": 0.28 },
+  { "id": "192", "name": "Cuba", "rate": 0.28 },
+  { "id": "196", "name": "Cyprus", "rate": 0.28 },
+  { "id": "203", "name": "Czechia", "rate": 0.28 },
+  { "id": "204", "name": "Benin", "rate": 0.48 },
+  { "id": "208", "name": "Denmark", "rate": 0.48 },
+  { "id": "212", "name": "Dominica", "rate": 0.48 },
+  { "id": "214", "name": "Dominican Rep.", "rate": 0.48 },
+  { "id": "218", "name": "Ecuador", "rate": 0.48 },
+  { "id": "222", "name": "El Salvador", "rate": 0.48 },
+  { "id": "226", "name": "Eq. Guinea", "rate": 0.455 },
+  { "id": "231", "name": "Ethiopia", "rate": 0.455 },
+  { "id": "232", "name": "Eritrea", "rate": 0.455 },
+  { "id": "233", "name": "Estonia", "rate": 0.555 },
+  { "id": "234", "name": "Faroe Islands", "rate": 0.55 },
+  { "id": "238", "name": "Falkland Is.", "rate": 0.55 },
   {
     "id": "239",
+    "name": "South Georgia and the South Sandwich Islands",
     "rate": 0.55
   },
-  {
-    "id": "242",
-    "rate": 0.55
-  },
-  {
-    "id": "246",
-    "rate": 0.78
-  },
-  {
-    "id": "248",
-    "rate": 0.78
-  },
-  {
-    "id": "250",
-    "rate": 0.78
-  },
-  {
-    "id": "254",
-    "rate": 0.78
-  },
-  {
-    "id": "258",
-    "rate": 0.78
-  },
-  {
-    "id": "260",
-    "rate": 0.34
-  },
-  {
-    "id": "262",
-    "rate": 0.34
-  },
-  {
-    "id": "266",
-    "rate": 0.34
-  },
-  {
-    "id": "268",
-    "rate": 0.34
-  },
-  {
-    "id": "270",
-    "rate": 0.3555
-  },
-  {
-    "id": "275",
-    "rate": 0.3555
-  },
-  {
-    "id": "276",
-    "rate": 0.3555
-  },
-  {
-    "id": "288",
-    "rate": 0.3555
-  },
-  {
-    "id": "292",
-    "rate": 0.75
-  },
-  {
-    "id": "296",
-    "rate": 0.75
-  },
-  {
-    "id": "300",
-    "rate": 0.75
-  },
-  {
-    "id": "304",
-    "rate": 0.75
-  },
-  {
-    "id": "308",
-    "rate": 0.2
-  },
-  {
-    "id": "312",
-    "rate": 0.2
-  },
-  {
-    "id": "316",
-    "rate": 0.2
-  },
-  {
-    "id": "320",
-    "rate": 0.2
-  },
-  {
-    "id": "324",
-    "rate": 0.5
-  },
-  {
-    "id": "328",
-    "rate": 0.5
-  },
-  {
-    "id": "332",
-    "rate": 0.5
-  },
-  {
-    "id": "334",
-    "rate": 0.5
-  },
-  {
-    "id": "336",
-    "rate": 0.5
-  },
-  {
-    "id": "340",
-    "rate": 0.5
-  },
-  {
-    "id": "344",
-    "rate": 0.667
-  },
-  {
-    "id": "348",
-    "rate": 0.667
-  },
-  {
-    "id": "352",
-    "rate": 0.667
-  },
-  {
-    "id": "356",
-    "rate": 0.667
-  },
-  {
-    "id": "360",
-    "rate": 0.667
-  },
-  {
-    "id": "364",
-    "rate": 0.6644
-  },
-  {
-    "id": "368",
-    "rate": 0.44
-  },
-  {
-    "id": "372",
-    "rate": 0.44
-  },
-  {
-    "id": "376",
-    "rate": 0.44
-  },
-  {
-    "id": "380",
-    "rate": 0.44
-  },
-  {
-    "id": "384",
-    "rate": 0.44
-  },
-  {
-    "id": "388",
-    "rate": 0.44
-  },
-  {
-    "id": "392",
-    "rate": 0.55
-  },
-  {
-    "id": "398",
-    "rate": 0.55
-  },
-  {
-    "id": "400",
-    "rate": 0.55
-  },
-  {
-    "id": "404",
-    "rate": 0.55
-  },
-  {
-    "id": "408",
-    "rate": 0.55
-  },
-  {
-    "id": "410",
-    "rate": 0.55
-  },
-  {
-    "id": "414",
-    "rate": 0.78
-  },
-  {
-    "id": "417",
-    "rate": 0.78
-  },
-  {
-    "id": "418",
-    "rate": 0.78
-  },
-  {
-    "id": "422",
-    "rate": 0.78
-  },
-  {
-    "id": "426",
-    "rate": 0.78
-  },
-  {
-    "id": "428",
-    "rate": 0.78
-  },
-  {
-    "id": "430",
-    "rate": 0.98
-  },
-  {
-    "id": "434",
-    "rate": 0.98
-  },
-  {
-    "id": "438",
-    "rate": 0.98
-  },
-  {
-    "id": "440",
-    "rate": 0.98
-  },
-  {
-    "id": "442",
-    "rate": 0.98
-  },
-  {
-    "id": "446",
-    "rate": 0.98
-  },
-  {
-    "id": "450",
-    "rate": 0.32
-  },
-  {
-    "id": "454",
-    "rate": 0.32
-  },
-  {
-    "id": "458",
-    "rate": 0.32
-  },
-  {
-    "id": "462",
-    "rate": 0.32
-  },
-  {
-    "id": "466",
-    "rate": 0.32
-  },
-  {
-    "id": "470",
-    "rate": 0.32
-  },
-  {
-    "id": "474",
-    "rate": 0.32
-  },
-  {
-    "id": "478",
-    "rate": 0.32
-  },
-  {
-    "id": "480",
-    "rate": 0.32
-  },
-  {
-    "id": "484",
-    "rate": 0.45
-  },
-  {
-    "id": "492",
-    "rate": 0.45
-  },
-  {
-    "id": "496",
-    "rate": 0.45
-  },
-  {
-    "id": "498",
-    "rate": 0.45
-  },
-  {
-    "id": "499",
-    "rate": 0.45
-  },
-  {
-    "id": "500",
-    "rate": 0.45
-  },
-  {
-    "id": "504",
-    "rate": 0.45
-  },
-  {
-    "id": "508",
-    "rate": 0.45
-  },
-  {
-    "id": "512",
-    "rate": 0.56
-  },
-  {
-    "id": "516",
-    "rate": 0.56
-  },
-  {
-    "id": "520",
-    "rate": 0.56
-  },
-  {
-    "id": "524",
-    "rate": 0.56
-  },
-  {
-    "id": "528",
-    "rate": 0.56
-  },
-  {
-    "id": "531",
-    "rate": 0.56
-  },
-  {
-    "id": "533",
-    "rate": 0.56
-  },
-  {
-    "id": "534",
-    "rate": 0.57
-  },
-  {
-    "id": "535",
-    "rate": 0.57
-  },
-  {
-    "id": "540",
-    "rate": 0.57
-  },
-  {
-    "id": "548",
-    "rate": 0.57
-  },
-  {
-    "id": "554",
-    "rate": 0.57
-  },
-  {
-    "id": "558",
-    "rate": 0.23
-  },
-  {
-    "id": "562",
-    "rate": 0.23
-  },
-  {
-    "id": "566",
-    "rate": 0.23
-  },
-  {
-    "id": "570",
-    "rate": 0.23
-  },
-  {
-    "id": "574",
-    "rate": 0.23
-  },
-  {
-    "id": "578",
-    "rate": 0.23
-  },
-  {
-    "id": "580",
-    "rate": 0.59
-  },
-  {
-    "id": "581",
-    "rate": 0.59
-  },
-  {
-    "id": "583",
-    "rate": 0.59
-  },
-  {
-    "id": "584",
-    "rate": 0.59
-  },
-  {
-    "id": "585",
-    "rate": 0.59
-  },
-  {
-    "id": "586",
-    "rate": 0.59
-  },
-  {
-    "id": "591",
-    "rate": 0.59
-  },
-  {
-    "id": "598",
-    "rate": 0.59
-  },
-  {
-    "id": "600",
-    "rate": 0.59
-  },
-  {
-    "id": "604",
-    "rate": 0.18
-  },
-  {
-    "id": "608",
-    "rate": 0.18
-  },
-  {
-    "id": "612",
-    "rate": 0.18
-  },
-  {
-    "id": "616",
-    "rate": 0.18
-  },
-  {
-    "id": "620",
-    "rate": 0.18
-  },
-  {
-    "id": "624",
-    "rate": 0.18
-  },
-  {
-    "id": "626",
-    "rate": 0.18
-  },
-  {
-    "id": "630",
-    "rate": 0.18
-  },
-  {
-    "id": "634",
-    "rate": 0.18
-  },
-  {
-    "id": "638",
-    "rate": 0.01
-  },
-  {
-    "id": "642",
-    "rate": 0.01
-  },
-  {
-    "id": "643",
-    "rate": 0.01
-  },
-  {
-    "id": "646",
-    "rate": 0.01
-  },
-  {
-    "id": "652",
-    "rate": 0.2
-  },
+  { "id": "242", "name": "Fiji", "rate": 0.55 },
+  { "id": "246", "name": "Finland", "rate": 0.78 },
+  { "id": "248", "name": "Åland Islands", "rate": 0.78 },
+  { "id": "250", "name": "France", "rate": 0.78 },
+  { "id": "254", "name": "French Guiana", "rate": 0.78 },
+  { "id": "258", "name": "French Polynesia", "rate": 0.78 },
+  { "id": "260", "name": "Fr. S. Antarctic Lands", "rate": 0.34 },
+  { "id": "262", "name": "Djibouti", "rate": 0.34 },
+  { "id": "266", "name": "Gabon", "rate": 0.34 },
+  { "id": "268", "name": "Georgia", "rate": 0.34 },
+  { "id": "270", "name": "Gambia", "rate": 0.3555 },
+  { "id": "275", "name": "Palestine", "rate": 0.3555 },
+  { "id": "276", "name": "Germany", "rate": 0.3555 },
+  { "id": "288", "name": "Ghana", "rate": 0.3555 },
+  { "id": "292", "name": "Gibraltar", "rate": 0.75 },
+  { "id": "296", "name": "Kiribati", "rate": 0.75 },
+  { "id": "300", "name": "Greece", "rate": 0.75 },
+  { "id": "304", "name": "Greenland", "rate": 0.75 },
+  { "id": "308", "name": "Grenada", "rate": 0.2 },
+  { "id": "312", "name": "Guadeloupe", "rate": 0.2 },
+  { "id": "316", "name": "Guam", "rate": 0.2 },
+  { "id": "320", "name": "Guatemala", "rate": 0.2 },
+  { "id": "324", "name": "Guinea", "rate": 0.5 },
+  { "id": "328", "name": "Guyana", "rate": 0.5 },
+  { "id": "332", "name": "Haiti", "rate": 0.5 },
+  { "id": "334", "name": "Heard Island and McDonald Islands", "rate": 0.5 },
+  { "id": "336", "name": "Holy See", "rate": 0.5 },
+  { "id": "340", "name": "Honduras", "rate": 0.5 },
+  { "id": "344", "name": "Hong Kong", "rate": 0.667 },
+  { "id": "348", "name": "Hungary", "rate": 0.667 },
+  { "id": "352", "name": "Iceland", "rate": 0.667 },
+  { "id": "356", "name": "India", "rate": 0.667 },
+  { "id": "360", "name": "Indonesia", "rate": 0.667 },
+  { "id": "364", "name": "Iran", "rate": 0.6644 },
+  { "id": "368", "name": "Iraq", "rate": 0.44 },
+  { "id": "372", "name": "Ireland", "rate": 0.44 },
+  { "id": "376", "name": "Israel", "rate": 0.44 },
+  { "id": "380", "name": "Italy", "rate": 0.44 },
+  { "id": "384", "name": "Côte d'Ivoire", "rate": 0.44 },
+  { "id": "388", "name": "Jamaica", "rate": 0.44 },
+  { "id": "392", "name": "Japan", "rate": 0.55 },
+  { "id": "398", "name": "Kazakhstan", "rate": 0.55 },
+  { "id": "400", "name": "Jordan", "rate": 0.55 },
+  { "id": "404", "name": "Kenya", "rate": 0.55 },
+  { "id": "408", "name": "North Korea", "rate": 0.55 },
+  { "id": "410", "name": "South Korea", "rate": 0.55 },
+  { "id": "414", "name": "Kuwait", "rate": 0.78 },
+  { "id": "417", "name": "Kyrgyzstan", "rate": 0.78 },
+  { "id": "418", "name": "Laos", "rate": 0.78 },
+  { "id": "422", "name": "Lebanon", "rate": 0.78 },
+  { "id": "426", "name": "Lesotho", "rate": 0.78 },
+  { "id": "428", "name": "Latvia", "rate": 0.78 },
+  { "id": "430", "name": "Liberia", "rate": 0.98 },
+  { "id": "434", "name": "Libya", "rate": 0.98 },
+  { "id": "438", "name": "Liechtenstein", "rate": 0.98 },
+  { "id": "440", "name": "Lithuania", "rate": 0.98 },
+  { "id": "442", "name": "Luxembourg", "rate": 0.98 },
+  { "id": "446", "name": "Macao", "rate": 0.98 },
+  { "id": "450", "name": "Madagascar", "rate": 0.32 },
+  { "id": "454", "name": "Malawi", "rate": 0.32 },
+  { "id": "458", "name": "Malaysia", "rate": 0.32 },
+  { "id": "462", "name": "Maldives", "rate": 0.32 },
+  { "id": "466", "name": "Mali", "rate": 0.32 },
+  { "id": "470", "name": "Malta", "rate": 0.32 },
+  { "id": "474", "name": "Martinique", "rate": 0.32 },
+  { "id": "478", "name": "Mauritania", "rate": 0.32 },
+  { "id": "480", "name": "Mauritius", "rate": 0.32 },
+  { "id": "484", "name": "Mexico", "rate": 0.45 },
+  { "id": "492", "name": "Monaco", "rate": 0.45 },
+  { "id": "496", "name": "Mongolia", "rate": 0.45 },
+  { "id": "498", "name": "Moldova", "rate": 0.45 },
+  { "id": "499", "name": "Montenegro", "rate": 0.45 },
+  { "id": "500", "name": "Montserrat", "rate": 0.45 },
+  { "id": "504", "name": "Morocco", "rate": 0.45 },
+  { "id": "508", "name": "Mozambique", "rate": 0.45 },
+  { "id": "512", "name": "Oman", "rate": 0.56 },
+  { "id": "516", "name": "Namibia", "rate": 0.56 },
+  { "id": "520", "name": "Nauru", "rate": 0.56 },
+  { "id": "524", "name": "Nepal", "rate": 0.56 },
+  { "id": "528", "name": "Netherlands", "rate": 0.56 },
+  { "id": "531", "name": "Curaçao", "rate": 0.56 },
+  { "id": "533", "name": "Aruba", "rate": 0.56 },
+  { "id": "534", "name": "Sint Maarten (Dutch part)", "rate": 0.57 },
+  { "id": "535", "name": "Bonaire, Sint Eustatius and Saba", "rate": 0.57 },
+  { "id": "540", "name": "New Caledonia", "rate": 0.57 },
+  { "id": "548", "name": "Vanuatu", "rate": 0.57 },
+  { "id": "554", "name": "New Zealand", "rate": 0.57 },
+  { "id": "558", "name": "Nicaragua", "rate": 0.23 },
+  { "id": "562", "name": "Niger", "rate": 0.23 },
+  { "id": "566", "name": "Nigeria", "rate": 0.23 },
+  { "id": "570", "name": "Niue", "rate": 0.23 },
+  { "id": "574", "name": "Norfolk Island", "rate": 0.23 },
+  { "id": "578", "name": "Norway", "rate": 0.23 },
+  { "id": "580", "name": "Northern Mariana Islands", "rate": 0.59 },
+  { "id": "581", "name": "United States Minor Outlying Islands", "rate": 0.59 },
+  { "id": "583", "name": "Micronesia (Federated States of)", "rate": 0.59 },
+  { "id": "584", "name": "Marshall Islands", "rate": 0.59 },
+  { "id": "585", "name": "Palau", "rate": 0.59 },
+  { "id": "586", "name": "Pakistan", "rate": 0.59 },
+  { "id": "591", "name": "Panama", "rate": 0.59 },
+  { "id": "598", "name": "Papua New Guinea", "rate": 0.59 },
+  { "id": "600", "name": "Paraguay", "rate": 0.59 },
+  { "id": "604", "name": "Peru", "rate": 0.18 },
+  { "id": "608", "name": "Philippines", "rate": 0.18 },
+  { "id": "612", "name": "Pitcairn", "rate": 0.18 },
+  { "id": "616", "name": "Poland", "rate": 0.18 },
+  { "id": "620", "name": "Portugal", "rate": 0.18 },
+  { "id": "624", "name": "Guinea-Bissau", "rate": 0.18 },
+  { "id": "626", "name": "Timor-Leste", "rate": 0.18 },
+  { "id": "630", "name": "Puerto Rico", "rate": 0.18 },
+  { "id": "634", "name": "Qatar", "rate": 0.18 },
+  { "id": "638", "name": "Réunion", "rate": 0.01 },
+  { "id": "642", "name": "Romania", "rate": 0.01 },
+  { "id": "643", "name": "Russia", "rate": 0.01 },
+  { "id": "646", "name": "Rwanda", "rate": 0.01 },
+  { "id": "652", "name": "Saint Barthélemy", "rate": 0.2 },
   {
     "id": "654",
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
     "rate": 0.2
   },
-  {
-    "id": "659",
-    "rate": 0.2
-  },
-  {
-    "id": "660",
-    "rate": 0.2
-  },
-  {
-    "id": "662",
-    "rate": 0.2
-  },
-  {
-    "id": "663",
-    "rate": 0.2
-  },
-  {
-    "id": "666",
-    "rate": 0.2
-  },
-  {
-    "id": "670",
-    "rate": 0.2
-  },
-  {
-    "id": "674",
-    "rate": 0.2
-  },
-  {
-    "id": "678",
-    "rate": 0.2
-  },
-  {
-    "id": "682",
-    "rate": 0.3
-  },
-  {
-    "id": "686",
-    "rate": 0.3
-  },
-  {
-    "id": "688",
-    "rate": 0.3
-  },
-  {
-    "id": "690",
-    "rate": 0.3
-  },
-  {
-    "id": "694",
-    "rate": 0.3
-  },
-  {
-    "id": "702",
-    "rate": 0.3
-  },
-  {
-    "id": "703",
-    "rate": 0.3
-  },
-  {
-    "id": "704",
-    "rate": 0.67
-  },
-  {
-    "id": "705",
-    "rate": 0.67
-  },
-  {
-    "id": "706",
-    "rate": 0.67
-  },
-  {
-    "id": "710",
-    "rate": 0.67
-  },
-  {
-    "id": "716",
-    "rate": 0.67
-  },
-  {
-    "id": "724",
-    "rate": 0.67
-  },
-  {
-    "id": "728",
-    "rate": 0.67
-  },
-  {
-    "id": "729",
-    "rate": 0.67
-  },
-  {
-    "id": "732",
-    "rate": 0.67
-  },
-  {
-    "id": "740",
-    "rate": 0.67
-  },
-  {
-    "id": "744",
-    "rate": 0.36
-  },
-  {
-    "id": "748",
-    "rate": 0.36
-  },
-  {
-    "id": "752",
-    "rate": 0.36
-  },
-  {
-    "id": "756",
-    "rate": 0.36
-  },
-  {
-    "id": "760",
-    "rate": 0.36
-  },
-  {
-    "id": "762",
-    "rate": 0.36
-  },
-  {
-    "id": "764",
-    "rate": 0.36
-  },
-  {
-    "id": "768",
-    "rate": 0.5
-  },
-  {
-    "id": "772",
-    "rate": 0.5
-  },
-  {
-    "id": "776",
-    "rate": 0.5
-  },
-  {
-    "id": "780",
-    "rate": 0.5
-  },
-  {
-    "id": "784",
-    "rate": 0.5
-  },
-  {
-    "id": "788",
-    "rate": 0.5
-  },
-  {
-    "id": "792",
-    "rate": 0.87
-  },
-  {
-    "id": "795",
-    "rate": 0.87
-  },
-  {
-    "id": "796",
-    "rate": 0.87
-  },
-  {
-    "id": "798",
-    "rate": 0.87
-  },
-  {
-    "id": "800",
-    "rate": 0.87
-  },
-  {
-    "id": "804",
-    "rate": 0.87
-  },
-  {
-    "id": "807",
-    "rate": 0.87
-  },
-  {
-    "id": "818",
-    "rate": 0.87
-  },
-  {
-    "id": "826",
-    "rate": 0.32
-  },
-  {
-    "id": "831",
-    "rate": 0.32
-  },
-  {
-    "id": "832",
-    "rate": 0.32
-  },
-  {
-    "id": "833",
-    "rate": 0.32
-  },
-  {
-    "id": "834",
-    "rate": 0.32
-  },
-  {
-    "id": "840",
-    "rate": 0.32
-  },
-  {
-    "id": "850",
-    "rate": 0.14
-  },
-  {
-    "id": "854",
-    "rate": 0.14
-  },
-  {
-    "id": "858",
-    "rate": 0.14
-  },
-  {
-    "id": "860",
-    "rate": 0.14
-  },
-  {
-    "id": "862",
-    "rate": 0.14
-  },
-  {
-    "id": "876",
-    "rate": 0.17
-  },
-  {
-    "id": "882",
-    "rate": 0.17
-  },
-  {
-    "id": "887",
-    "rate": 0.17
-  },
-  {
-    "id": "894",
-    "rate": 0.17
-  }
+  { "id": "659", "name": "Saint Kitts and Nevis", "rate": 0.2 },
+  { "id": "660", "name": "Anguilla", "rate": 0.2 },
+  { "id": "662", "name": "Saint Lucia", "rate": 0.2 },
+  { "id": "663", "name": "Saint Martin (French part)", "rate": 0.2 },
+  { "id": "666", "name": "Saint Pierre and Miquelon", "rate": 0.2 },
+  { "id": "670", "name": "Saint Vincent and the Grenadines", "rate": 0.2 },
+  { "id": "674", "name": "San Marino", "rate": 0.2 },
+  { "id": "678", "name": "Sao Tome and Principe", "rate": 0.2 },
+  { "id": "682", "name": "Saudi Arabia", "rate": 0.3 },
+  { "id": "686", "name": "Senegal", "rate": 0.3 },
+  { "id": "688", "name": "Serbia", "rate": 0.3 },
+  { "id": "690", "name": "Seychelles", "rate": 0.3 },
+  { "id": "694", "name": "Sierra Leone", "rate": 0.3 },
+  { "id": "702", "name": "Singapore", "rate": 0.3 },
+  { "id": "703", "name": "Slovakia", "rate": 0.3 },
+  { "id": "704", "name": "Vietnam", "rate": 0.67 },
+  { "id": "705", "name": "Slovenia", "rate": 0.67 },
+  { "id": "706", "name": "Somalia", "rate": 0.67 },
+  { "id": "710", "name": "South Africa", "rate": 0.67 },
+  { "id": "716", "name": "Zimbabwe", "rate": 0.67 },
+  { "id": "724", "name": "Spain", "rate": 0.67 },
+  { "id": "728", "name": "S. Sudan", "rate": 0.67 },
+  { "id": "729", "name": "Sudan", "rate": 0.67 },
+  { "id": "732", "name": "W. Sahara", "rate": 0.67 },
+  { "id": "740", "name": "Suriname", "rate": 0.67 },
+  { "id": "744", "name": "Svalbard and Jan Mayen", "rate": 0.36 },
+  { "id": "748", "name": "eSwatini", "rate": 0.36 },
+  { "id": "752", "name": "Sweden", "rate": 0.36 },
+  { "id": "756", "name": "Switzerland", "rate": 0.36 },
+  { "id": "760", "name": "Syria", "rate": 0.36 },
+  { "id": "762", "name": "Tajikistan", "rate": 0.36 },
+  { "id": "764", "name": "Thailand", "rate": 0.36 },
+  { "id": "768", "name": "Togo", "rate": 0.5 },
+  { "id": "772", "name": "Tokelau", "rate": 0.5 },
+  { "id": "776", "name": "Tonga", "rate": 0.5 },
+  { "id": "780", "name": "Trinidad and Tobago", "rate": 0.5 },
+  { "id": "784", "name": "United Arab Emirates", "rate": 0.5 },
+  { "id": "788", "name": "Tunisia", "rate": 0.5 },
+  { "id": "792", "name": "Turkey", "rate": 0.87 },
+  { "id": "795", "name": "Turkmenistan", "rate": 0.87 },
+  { "id": "796", "name": "Turks and Caicos Islands", "rate": 0.87 },
+  { "id": "798", "name": "Tuvalu", "rate": 0.87 },
+  { "id": "800", "name": "Uganda", "rate": 0.87 },
+  { "id": "804", "name": "Ukraine", "rate": 0.87 },
+  { "id": "807", "name": "Macedonia", "rate": 0.87 },
+  { "id": "818", "name": "Egypt", "rate": 0.87 },
+  { "id": "826", "name": "United Kingdom", "rate": 0.32 },
+  { "id": "831", "name": "Guernsey", "rate": 0.32 },
+  { "id": "832", "name": "Jersey", "rate": 0.32 },
+  { "id": "833", "name": "Isle of Man", "rate": 0.32 },
+  { "id": "834", "name": "Tanzania", "rate": 0.32 },
+  { "id": "840", "name": "United States of America", "rate": 0.32 },
+  { "id": "850", "name": "Virgin Islands (U.S.)", "rate": 0.14 },
+  { "id": "854", "name": "Burkina Faso", "rate": 0.14 },
+  { "id": "858", "name": "Uruguay", "rate": 0.14 },
+  { "id": "860", "name": "Uzbekistan", "rate": 0.14 },
+  { "id": "862", "name": "Venezuela", "rate": 0.14 },
+  { "id": "876", "name": "Wallis and Futuna", "rate": 0.17 },
+  { "id": "882", "name": "Samoa", "rate": 0.17 },
+  { "id": "887", "name": "Yemen", "rate": 0.17 },
+  { "id": "894", "name": "Zambia", "rate": 0.17 }
 ]
