@@ -3,14 +3,16 @@
     "id": 1,
     "value": "transcript_variant",
     "label": "Transcript variant",
-    "children": [2, 19, 25, 29, 30]
+    "children": [2, 19, 25, 29, 30],
+    "url": "https://en.wikipedia.org/wiki/Transcriptome"
   },
   {
     "id": 2,
     "value": "coding_variant",
     "label": "Coding variant",
     "children": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18],
-    "parent": 1
+    "parent": 1,
+    "url": "https://www.nature.com/articles/s41586-024-07556-0"
   },
   {
     "id": 3,
