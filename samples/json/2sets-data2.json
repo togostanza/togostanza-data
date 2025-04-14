@@ -1,0 +1,34 @@
+{
+  "LambdaSupport": [
+    "JavaScript",
+    "Python",
+    "Ruby",
+    "Java",
+    "Scala",
+    "C#",
+    "Kotlin",
+    "Swift",
+    "Elixir",
+    "Clojure",
+    "Haskell",
+    "F#",
+    "Raku",
+    "Groovy"
+  ],
+  "PatternMatching": [
+    "Haskell",
+    "OCaml",
+    "Scala",
+    "F#",
+    "Swift",
+    "Elixir",
+    "Rust",
+    "Kotlin",
+    "Erlang",
+    "Nim",
+    "Standard ML",
+    "Idris",
+    "Agda",
+    "Racket"
+  ]
+}
