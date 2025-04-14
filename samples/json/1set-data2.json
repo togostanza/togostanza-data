@@ -1,0 +1,18 @@
+{
+  "LambdaSupport": [
+    "JavaScript",
+    "Python",
+    "Ruby",
+    "Java",
+    "Scala",
+    "C#",
+    "Kotlin",
+    "Swift",
+    "Elixir",
+    "Clojure",
+    "Haskell",
+    "F#",
+    "Raku",
+    "Groovy"
+  ]
+}
