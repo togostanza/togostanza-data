@@ -1,7 +1,7 @@
 [
     {
     "title": "Human Proteome Dataset",
-    "dataset_uri": "https://example.com/datasets/DS001",
+    "dataset_uri": "https://togostanza.org/",
     "description": "A comprehensive dataset of human proteins.",
     "species": "Homo sapiens",
     "number_of_protein": 20500
