@@ -1,259 +1,1496 @@
 [
-  { "id": "004", "name": "Afghanistan", "rate": 0.9 },
-  { "id": "008", "name": "Albania", "rate": 0.2 },
-  { "id": "010", "name": "Antarctica", "rate": 0.9 },
-  { "id": "012", "name": "Algeria", "rate": 0.9 },
-  { "id": "016", "name": "American Samoa", "rate": 0.9 },
-  { "id": "020", "name": "Andorra", "rate": 0.4 },
-  { "id": "024", "name": "Angola", "rate": 0.9 },
-  { "id": "028", "name": "Antigua and Barbuda", "rate": 0.9 },
-  { "id": "031", "name": "Azerbaijan", "rate": 0.5 },
-  { "id": "032", "name": "Argentina", "rate": 0.5 },
-  { "id": "036", "name": "Australia", "rate": 0.5 },
-  { "id": "040", "name": "Austria", "rate": 0.9 },
-  { "id": "044", "name": "Bahamas", "rate": 0.9 },
-  { "id": "048", "name": "Bahrain", "rate": 0.7 },
-  { "id": "050", "name": "Bangladesh", "rate": 0.9 },
-  { "id": "051", "name": "Armenia", "rate": 0.9 },
-  { "id": "052", "name": "Barbados", "rate": 0.9 },
-  { "id": "056", "name": "Belgium", "rate": 0.3 },
-  { "id": "060", "name": "Bermuda", "rate": 0.3 },
-  { "id": "064", "name": "Bhutan", "rate": 0.3 },
-  { "id": "068", "name": "Bolivia", "rate": 0.9 },
-  { "id": "070", "name": "Bosnia and Herz.", "rate": 0.9 },
-  { "id": "072", "name": "Botswana", "rate": 0.9 },
-  { "id": "074", "name": "Bouvet Island", "rate": 0.2 },
-  { "id": "076", "name": "Brazil", "rate": 0.2 },
-  { "id": "084", "name": "Belize", "rate": 0.2 },
-  { "id": "086", "name": "British Indian Ocean Territory", "rate": 0.9 },
-  { "id": "090", "name": "Solomon Is.", "rate": 0.9 },
-  { "id": "092", "name": "Virgin Islands (British)", "rate": 0.9 },
-  { "id": "096", "name": "Brunei", "rate": 0.6 },
-  { "id": "100", "name": "Bulgaria", "rate": 0.6 },
-  { "id": "104", "name": "Myanmar", "rate": 0.6 },
-  { "id": "108", "name": "Burundi", "rate": 0.6 },
-  { "id": "112", "name": "Belarus", "rate": 0.6 },
-  { "id": "116", "name": "Cambodia", "rate": 0.7 },
-  { "id": "120", "name": "Cameroon", "rate": 0.7 },
-  { "id": "124", "name": "Canada", "rate": 0.7 },
-  { "id": "132", "name": "Cabo Verde", "rate": 0.7 },
-  { "id": "136", "name": "Cayman Islands", "rate": 0.7 },
-  { "id": "140", "name": "Central African Rep.", "rate": 0.3 },
-  { "id": "144", "name": "Sri Lanka", "rate": 0.3 },
-  { "id": "148", "name": "Chad", "rate": 0.3 },
-  { "id": "152", "name": "Chile", "rate": 0.3 },
-  { "id": "156", "name": "China", "rate": 0.3 },
-  { "id": "158", "name": "Taiwan", "rate": 0.4 },
-  { "id": "162", "name": "Christmas Island", "rate": 0.4 },
-  { "id": "166", "name": "Cocos (Keeling) Islands", "rate": 0.4 },
-  { "id": "170", "name": "Colombia", "rate": 0.4 },
-  { "id": "174", "name": "Comoros", "rate": 0.4 },
-  { "id": "175", "name": "Mayotte", "rate": 0.22 },
-  { "id": "178", "name": "Congo", "rate": 0.22 },
-  { "id": "180", "name": "Dem. Rep. Congo", "rate": 0.22 },
-  { "id": "184", "name": "Cook Islands", "rate": 0.22 },
-  { "id": "188", "name": "Costa Rica", "rate": 0.22 },
-  { "id": "191", "name": "Croatia", "rate": 0.28 },
-  { "id": "192", "name": "Cuba", "rate": 0.28 },
-  { "id": "196", "name": "Cyprus", "rate": 0.28 },
-  { "id": "203", "name": "Czechia", "rate": 0.28 },
-  { "id": "204", "name": "Benin", "rate": 0.48 },
-  { "id": "208", "name": "Denmark", "rate": 0.48 },
-  { "id": "212", "name": "Dominica", "rate": 0.48 },
-  { "id": "214", "name": "Dominican Rep.", "rate": 0.48 },
-  { "id": "218", "name": "Ecuador", "rate": 0.48 },
-  { "id": "222", "name": "El Salvador", "rate": 0.48 },
-  { "id": "226", "name": "Eq. Guinea", "rate": 0.455 },
-  { "id": "231", "name": "Ethiopia", "rate": 0.455 },
-  { "id": "232", "name": "Eritrea", "rate": 0.455 },
-  { "id": "233", "name": "Estonia", "rate": 0.555 },
-  { "id": "234", "name": "Faroe Islands", "rate": 0.55 },
-  { "id": "238", "name": "Falkland Is.", "rate": 0.55 },
+  {
+    "id": "004",
+    "name": "Afghanistan",
+    "rate": 0.9,
+    "url": "https://en.wikipedia.org/wiki/Afghanistan"
+  },
+  {
+    "id": "008",
+    "name": "Albania",
+    "rate": 0.2,
+    "url": "https://en.wikipedia.org/wiki/Albania"
+  },
+  {
+    "id": "010",
+    "name": "Antarctica",
+    "rate": 0.9,
+    "url": "https://en.wikipedia.org/wiki/Antarctica"
+  },
+  {
+    "id": "012",
+    "name": "Algeria",
+    "rate": 0.9,
+    "url": "https://en.wikipedia.org/wiki/Algeria"
+  },
+  {
+    "id": "016",
+    "name": "American Samoa",
+    "rate": 0.9,
+    "url": "https://en.wikipedia.org/wiki/American_Samoa"
+  },
+  {
+    "id": "020",
+    "name": "Andorra",
+    "rate": 0.4,
+    "url": "https://en.wikipedia.org/wiki/Andorra"
+  },
+  {
+    "id": "024",
+    "name": "Angola",
+    "rate": 0.9,
+    "url": "https://en.wikipedia.org/wiki/Angola"
+  },
+  {
+    "id": "028",
+    "name": "Antigua and Barbuda",
+    "rate": 0.9,
+    "url": "https://en.wikipedia.org/wiki/Antigua_and_Barbuda"
+  },
+  {
+    "id": "031",
+    "name": "Azerbaijan",
+    "rate": 0.5,
+    "url": "https://en.wikipedia.org/wiki/Azerbaijan"
+  },
+  {
+    "id": "032",
+    "name": "Argentina",
+    "rate": 0.5,
+    "url": "https://en.wikipedia.org/wiki/Argentina"
+  },
+  {
+    "id": "036",
+    "name": "Australia",
+    "rate": 0.5,
+    "url": "https://en.wikipedia.org/wiki/Australia"
+  },
+  {
+    "id": "040",
+    "name": "Austria",
+    "rate": 0.9,
+    "url": "https://en.wikipedia.org/wiki/Austria"
+  },
+  {
+    "id": "044",
+    "name": "Bahamas",
+    "rate": 0.9,
+    "url": "https://en.wikipedia.org/wiki/Bahamas"
+  },
+  {
+    "id": "048",
+    "name": "Bahrain",
+    "rate": 0.7,
+    "url": "https://en.wikipedia.org/wiki/Bahrain"
+  },
+  {
+    "id": "050",
+    "name": "Bangladesh",
+    "rate": 0.9,
+    "url": "https://en.wikipedia.org/wiki/Bangladesh"
+  },
+  {
+    "id": "051",
+    "name": "Armenia",
+    "rate": 0.9,
+    "url": "https://en.wikipedia.org/wiki/Armenia"
+  },
+  {
+    "id": "052",
+    "name": "Barbados",
+    "rate": 0.9,
+    "url": "https://en.wikipedia.org/wiki/Barbados"
+  },
+  {
+    "id": "056",
+    "name": "Belgium",
+    "rate": 0.3,
+    "url": "https://en.wikipedia.org/wiki/Belgium"
+  },
+  {
+    "id": "060",
+    "name": "Bermuda",
+    "rate": 0.3,
+    "url": "https://en.wikipedia.org/wiki/Bermuda"
+  },
+  {
+    "id": "064",
+    "name": "Bhutan",
+    "rate": 0.3,
+    "url": "https://en.wikipedia.org/wiki/Bhutan"
+  },
+  {
+    "id": "068",
+    "name": "Bolivia",
+    "rate": 0.9,
+    "url": "https://en.wikipedia.org/wiki/Bolivia"
+  },
+  {
+    "id": "070",
+    "name": "Bosnia and Herz.",
+    "rate": 0.9,
+    "url": "https://en.wikipedia.org/wiki/Bosnia_and_Herz."
+  },
+  {
+    "id": "072",
+    "name": "Botswana",
+    "rate": 0.9,
+    "url": "https://en.wikipedia.org/wiki/Botswana"
+  },
+  {
+    "id": "074",
+    "name": "Bouvet Island",
+    "rate": 0.2,
+    "url": "https://en.wikipedia.org/wiki/Bouvet_Island"
+  },
+  {
+    "id": "076",
+    "name": "Brazil",
+    "rate": 0.2,
+    "url": "https://en.wikipedia.org/wiki/Brazil"
+  },
+  {
+    "id": "084",
+    "name": "Belize",
+    "rate": 0.2,
+    "url": "https://en.wikipedia.org/wiki/Belize"
+  },
+  {
+    "id": "086",
+    "name": "British Indian Ocean Territory",
+    "rate": 0.9,
+    "url": "https://en.wikipedia.org/wiki/British_Indian_Ocean_Territory"
+  },
+  {
+    "id": "090",
+    "name": "Solomon Is.",
+    "rate": 0.9,
+    "url": "https://en.wikipedia.org/wiki/Solomon_Is."
+  },
+  {
+    "id": "092",
+    "name": "Virgin Islands (British)",
+    "rate": 0.9,
+    "url": "https://en.wikipedia.org/wiki/Virgin_Islands_(British)"
+  },
+  {
+    "id": "096",
+    "name": "Brunei",
+    "rate": 0.6,
+    "url": "https://en.wikipedia.org/wiki/Brunei"
+  },
+  {
+    "id": "100",
+    "name": "Bulgaria",
+    "rate": 0.6,
+    "url": "https://en.wikipedia.org/wiki/Bulgaria"
+  },
+  {
+    "id": "104",
+    "name": "Myanmar",
+    "rate": 0.6,
+    "url": "https://en.wikipedia.org/wiki/Myanmar"
+  },
+  {
+    "id": "108",
+    "name": "Burundi",
+    "rate": 0.6,
+    "url": "https://en.wikipedia.org/wiki/Burundi"
+  },
+  {
+    "id": "112",
+    "name": "Belarus",
+    "rate": 0.6,
+    "url": "https://en.wikipedia.org/wiki/Belarus"
+  },
+  {
+    "id": "116",
+    "name": "Cambodia",
+    "rate": 0.7,
+    "url": "https://en.wikipedia.org/wiki/Cambodia"
+  },
+  {
+    "id": "120",
+    "name": "Cameroon",
+    "rate": 0.7,
+    "url": "https://en.wikipedia.org/wiki/Cameroon"
+  },
+  {
+    "id": "124",
+    "name": "Canada",
+    "rate": 0.7,
+    "url": "https://en.wikipedia.org/wiki/Canada"
+  },
+  {
+    "id": "132",
+    "name": "Cabo Verde",
+    "rate": 0.7,
+    "url": "https://en.wikipedia.org/wiki/Cabo_Verde"
+  },
+  {
+    "id": "136",
+    "name": "Cayman Islands",
+    "rate": 0.7,
+    "url": "https://en.wikipedia.org/wiki/Cayman_Islands"
+  },
+  {
+    "id": "140",
+    "name": "Central African Rep.",
+    "rate": 0.3,
+    "url": "https://en.wikipedia.org/wiki/Central_African_Rep."
+  },
+  {
+    "id": "144",
+    "name": "Sri Lanka",
+    "rate": 0.3,
+    "url": "https://en.wikipedia.org/wiki/Sri_Lanka"
+  },
+  {
+    "id": "148",
+    "name": "Chad",
+    "rate": 0.3,
+    "url": "https://en.wikipedia.org/wiki/Chad"
+  },
+  {
+    "id": "152",
+    "name": "Chile",
+    "rate": 0.3,
+    "url": "https://en.wikipedia.org/wiki/Chile"
+  },
+  {
+    "id": "156",
+    "name": "China",
+    "rate": 0.3,
+    "url": "https://en.wikipedia.org/wiki/China"
+  },
+  {
+    "id": "158",
+    "name": "Taiwan",
+    "rate": 0.4,
+    "url": "https://en.wikipedia.org/wiki/Taiwan"
+  },
+  {
+    "id": "162",
+    "name": "Christmas Island",
+    "rate": 0.4,
+    "url": "https://en.wikipedia.org/wiki/Christmas_Island"
+  },
+  {
+    "id": "166",
+    "name": "Cocos (Keeling) Islands",
+    "rate": 0.4,
+    "url": "https://en.wikipedia.org/wiki/Cocos_(Keeling)_Islands"
+  },
+  {
+    "id": "170",
+    "name": "Colombia",
+    "rate": 0.4,
+    "url": "https://en.wikipedia.org/wiki/Colombia"
+  },
+  {
+    "id": "174",
+    "name": "Comoros",
+    "rate": 0.4,
+    "url": "https://en.wikipedia.org/wiki/Comoros"
+  },
+  {
+    "id": "175",
+    "name": "Mayotte",
+    "rate": 0.22,
+    "url": "https://en.wikipedia.org/wiki/Mayotte"
+  },
+  {
+    "id": "178",
+    "name": "Congo",
+    "rate": 0.22,
+    "url": "https://en.wikipedia.org/wiki/Congo"
+  },
+  {
+    "id": "180",
+    "name": "Dem. Rep. Congo",
+    "rate": 0.22,
+    "url": "https://en.wikipedia.org/wiki/Dem._Rep._Congo"
+  },
+  {
+    "id": "184",
+    "name": "Cook Islands",
+    "rate": 0.22,
+    "url": "https://en.wikipedia.org/wiki/Cook_Islands"
+  },
+  {
+    "id": "188",
+    "name": "Costa Rica",
+    "rate": 0.22,
+    "url": "https://en.wikipedia.org/wiki/Costa_Rica"
+  },
+  {
+    "id": "191",
+    "name": "Croatia",
+    "rate": 0.28,
+    "url": "https://en.wikipedia.org/wiki/Croatia"
+  },
+  {
+    "id": "192",
+    "name": "Cuba",
+    "rate": 0.28,
+    "url": "https://en.wikipedia.org/wiki/Cuba"
+  },
+  {
+    "id": "196",
+    "name": "Cyprus",
+    "rate": 0.28,
+    "url": "https://en.wikipedia.org/wiki/Cyprus"
+  },
+  {
+    "id": "203",
+    "name": "Czechia",
+    "rate": 0.28,
+    "url": "https://en.wikipedia.org/wiki/Czechia"
+  },
+  {
+    "id": "204",
+    "name": "Benin",
+    "rate": 0.48,
+    "url": "https://en.wikipedia.org/wiki/Benin"
+  },
+  {
+    "id": "208",
+    "name": "Denmark",
+    "rate": 0.48,
+    "url": "https://en.wikipedia.org/wiki/Denmark"
+  },
+  {
+    "id": "212",
+    "name": "Dominica",
+    "rate": 0.48,
+    "url": "https://en.wikipedia.org/wiki/Dominica"
+  },
+  {
+    "id": "214",
+    "name": "Dominican Rep.",
+    "rate": 0.48,
+    "url": "https://en.wikipedia.org/wiki/Dominican_Rep."
+  },
+  {
+    "id": "218",
+    "name": "Ecuador",
+    "rate": 0.48,
+    "url": "https://en.wikipedia.org/wiki/Ecuador"
+  },
+  {
+    "id": "222",
+    "name": "El Salvador",
+    "rate": 0.48,
+    "url": "https://en.wikipedia.org/wiki/El_Salvador"
+  },
+  {
+    "id": "226",
+    "name": "Eq. Guinea",
+    "rate": 0.455,
+    "url": "https://en.wikipedia.org/wiki/Eq._Guinea"
+  },
+  {
+    "id": "231",
+    "name": "Ethiopia",
+    "rate": 0.455,
+    "url": "https://en.wikipedia.org/wiki/Ethiopia"
+  },
+  {
+    "id": "232",
+    "name": "Eritrea",
+    "rate": 0.455,
+    "url": "https://en.wikipedia.org/wiki/Eritrea"
+  },
+  {
+    "id": "233",
+    "name": "Estonia",
+    "rate": 0.555,
+    "url": "https://en.wikipedia.org/wiki/Estonia"
+  },
+  {
+    "id": "234",
+    "name": "Faroe Islands",
+    "rate": 0.55,
+    "url": "https://en.wikipedia.org/wiki/Faroe_Islands"
+  },
+  {
+    "id": "238",
+    "name": "Falkland Is.",
+    "rate": 0.55,
+    "url": "https://en.wikipedia.org/wiki/Falkland_Is."
+  },
   {
     "id": "239",
     "name": "South Georgia and the South Sandwich Islands",
-    "rate": 0.55
+    "rate": 0.55,
+    "url": "https://en.wikipedia.org/wiki/South_Georgia_and_the_South_Sandwich_Islands"
   },
-  { "id": "242", "name": "Fiji", "rate": 0.55 },
-  { "id": "246", "name": "Finland", "rate": 0.78 },
-  { "id": "248", "name": "Åland Islands", "rate": 0.78 },
-  { "id": "250", "name": "France", "rate": 0.78 },
-  { "id": "254", "name": "French Guiana", "rate": 0.78 },
-  { "id": "258", "name": "French Polynesia", "rate": 0.78 },
-  { "id": "260", "name": "Fr. S. Antarctic Lands", "rate": 0.34 },
-  { "id": "262", "name": "Djibouti", "rate": 0.34 },
-  { "id": "266", "name": "Gabon", "rate": 0.34 },
-  { "id": "268", "name": "Georgia", "rate": 0.34 },
-  { "id": "270", "name": "Gambia", "rate": 0.3555 },
-  { "id": "275", "name": "Palestine", "rate": 0.3555 },
-  { "id": "276", "name": "Germany", "rate": 0.3555 },
-  { "id": "288", "name": "Ghana", "rate": 0.3555 },
-  { "id": "292", "name": "Gibraltar", "rate": 0.75 },
-  { "id": "296", "name": "Kiribati", "rate": 0.75 },
-  { "id": "300", "name": "Greece", "rate": 0.75 },
-  { "id": "304", "name": "Greenland", "rate": 0.75 },
-  { "id": "308", "name": "Grenada", "rate": 0.2 },
-  { "id": "312", "name": "Guadeloupe", "rate": 0.2 },
-  { "id": "316", "name": "Guam", "rate": 0.2 },
-  { "id": "320", "name": "Guatemala", "rate": 0.2 },
-  { "id": "324", "name": "Guinea", "rate": 0.5 },
-  { "id": "328", "name": "Guyana", "rate": 0.5 },
-  { "id": "332", "name": "Haiti", "rate": 0.5 },
-  { "id": "334", "name": "Heard Island and McDonald Islands", "rate": 0.5 },
-  { "id": "336", "name": "Holy See", "rate": 0.5 },
-  { "id": "340", "name": "Honduras", "rate": 0.5 },
-  { "id": "344", "name": "Hong Kong", "rate": 0.667 },
-  { "id": "348", "name": "Hungary", "rate": 0.667 },
-  { "id": "352", "name": "Iceland", "rate": 0.667 },
-  { "id": "356", "name": "India", "rate": 0.667 },
-  { "id": "360", "name": "Indonesia", "rate": 0.667 },
-  { "id": "364", "name": "Iran", "rate": 0.6644 },
-  { "id": "368", "name": "Iraq", "rate": 0.44 },
-  { "id": "372", "name": "Ireland", "rate": 0.44 },
-  { "id": "376", "name": "Israel", "rate": 0.44 },
-  { "id": "380", "name": "Italy", "rate": 0.44 },
-  { "id": "384", "name": "Côte d'Ivoire", "rate": 0.44 },
-  { "id": "388", "name": "Jamaica", "rate": 0.44 },
-  { "id": "392", "name": "Japan", "rate": 0.55 },
-  { "id": "398", "name": "Kazakhstan", "rate": 0.55 },
-  { "id": "400", "name": "Jordan", "rate": 0.55 },
-  { "id": "404", "name": "Kenya", "rate": 0.55 },
-  { "id": "408", "name": "North Korea", "rate": 0.55 },
-  { "id": "410", "name": "South Korea", "rate": 0.55 },
-  { "id": "414", "name": "Kuwait", "rate": 0.78 },
-  { "id": "417", "name": "Kyrgyzstan", "rate": 0.78 },
-  { "id": "418", "name": "Laos", "rate": 0.78 },
-  { "id": "422", "name": "Lebanon", "rate": 0.78 },
-  { "id": "426", "name": "Lesotho", "rate": 0.78 },
-  { "id": "428", "name": "Latvia", "rate": 0.78 },
-  { "id": "430", "name": "Liberia", "rate": 0.98 },
-  { "id": "434", "name": "Libya", "rate": 0.98 },
-  { "id": "438", "name": "Liechtenstein", "rate": 0.98 },
-  { "id": "440", "name": "Lithuania", "rate": 0.98 },
-  { "id": "442", "name": "Luxembourg", "rate": 0.98 },
-  { "id": "446", "name": "Macao", "rate": 0.98 },
-  { "id": "450", "name": "Madagascar", "rate": 0.32 },
-  { "id": "454", "name": "Malawi", "rate": 0.32 },
-  { "id": "458", "name": "Malaysia", "rate": 0.32 },
-  { "id": "462", "name": "Maldives", "rate": 0.32 },
-  { "id": "466", "name": "Mali", "rate": 0.32 },
-  { "id": "470", "name": "Malta", "rate": 0.32 },
-  { "id": "474", "name": "Martinique", "rate": 0.32 },
-  { "id": "478", "name": "Mauritania", "rate": 0.32 },
-  { "id": "480", "name": "Mauritius", "rate": 0.32 },
-  { "id": "484", "name": "Mexico", "rate": 0.45 },
-  { "id": "492", "name": "Monaco", "rate": 0.45 },
-  { "id": "496", "name": "Mongolia", "rate": 0.45 },
-  { "id": "498", "name": "Moldova", "rate": 0.45 },
-  { "id": "499", "name": "Montenegro", "rate": 0.45 },
-  { "id": "500", "name": "Montserrat", "rate": 0.45 },
-  { "id": "504", "name": "Morocco", "rate": 0.45 },
-  { "id": "508", "name": "Mozambique", "rate": 0.45 },
-  { "id": "512", "name": "Oman", "rate": 0.56 },
-  { "id": "516", "name": "Namibia", "rate": 0.56 },
-  { "id": "520", "name": "Nauru", "rate": 0.56 },
-  { "id": "524", "name": "Nepal", "rate": 0.56 },
-  { "id": "528", "name": "Netherlands", "rate": 0.56 },
-  { "id": "531", "name": "Curaçao", "rate": 0.56 },
-  { "id": "533", "name": "Aruba", "rate": 0.56 },
-  { "id": "534", "name": "Sint Maarten (Dutch part)", "rate": 0.57 },
-  { "id": "535", "name": "Bonaire, Sint Eustatius and Saba", "rate": 0.57 },
-  { "id": "540", "name": "New Caledonia", "rate": 0.57 },
-  { "id": "548", "name": "Vanuatu", "rate": 0.57 },
-  { "id": "554", "name": "New Zealand", "rate": 0.57 },
-  { "id": "558", "name": "Nicaragua", "rate": 0.23 },
-  { "id": "562", "name": "Niger", "rate": 0.23 },
-  { "id": "566", "name": "Nigeria", "rate": 0.23 },
-  { "id": "570", "name": "Niue", "rate": 0.23 },
-  { "id": "574", "name": "Norfolk Island", "rate": 0.23 },
-  { "id": "578", "name": "Norway", "rate": 0.23 },
-  { "id": "580", "name": "Northern Mariana Islands", "rate": 0.59 },
-  { "id": "581", "name": "United States Minor Outlying Islands", "rate": 0.59 },
-  { "id": "583", "name": "Micronesia (Federated States of)", "rate": 0.59 },
-  { "id": "584", "name": "Marshall Islands", "rate": 0.59 },
-  { "id": "585", "name": "Palau", "rate": 0.59 },
-  { "id": "586", "name": "Pakistan", "rate": 0.59 },
-  { "id": "591", "name": "Panama", "rate": 0.59 },
-  { "id": "598", "name": "Papua New Guinea", "rate": 0.59 },
-  { "id": "600", "name": "Paraguay", "rate": 0.59 },
-  { "id": "604", "name": "Peru", "rate": 0.18 },
-  { "id": "608", "name": "Philippines", "rate": 0.18 },
-  { "id": "612", "name": "Pitcairn", "rate": 0.18 },
-  { "id": "616", "name": "Poland", "rate": 0.18 },
-  { "id": "620", "name": "Portugal", "rate": 0.18 },
-  { "id": "624", "name": "Guinea-Bissau", "rate": 0.18 },
-  { "id": "626", "name": "Timor-Leste", "rate": 0.18 },
-  { "id": "630", "name": "Puerto Rico", "rate": 0.18 },
-  { "id": "634", "name": "Qatar", "rate": 0.18 },
-  { "id": "638", "name": "Réunion", "rate": 0.01 },
-  { "id": "642", "name": "Romania", "rate": 0.01 },
-  { "id": "643", "name": "Russia", "rate": 0.01 },
-  { "id": "646", "name": "Rwanda", "rate": 0.01 },
-  { "id": "652", "name": "Saint Barthélemy", "rate": 0.2 },
+  {
+    "id": "242",
+    "name": "Fiji",
+    "rate": 0.55,
+    "url": "https://en.wikipedia.org/wiki/Fiji"
+  },
+  {
+    "id": "246",
+    "name": "Finland",
+    "rate": 0.78,
+    "url": "https://en.wikipedia.org/wiki/Finland"
+  },
+  {
+    "id": "248",
+    "name": "Åland Islands",
+    "rate": 0.78,
+    "url": "https://en.wikipedia.org/wiki/%C3%85land_Islands"
+  },
+  {
+    "id": "250",
+    "name": "France",
+    "rate": 0.78,
+    "url": "https://en.wikipedia.org/wiki/France"
+  },
+  {
+    "id": "254",
+    "name": "French Guiana",
+    "rate": 0.78,
+    "url": "https://en.wikipedia.org/wiki/French_Guiana"
+  },
+  {
+    "id": "258",
+    "name": "French Polynesia",
+    "rate": 0.78,
+    "url": "https://en.wikipedia.org/wiki/French_Polynesia"
+  },
+  {
+    "id": "260",
+    "name": "Fr. S. Antarctic Lands",
+    "rate": 0.34,
+    "url": "https://en.wikipedia.org/wiki/Fr._S._Antarctic_Lands"
+  },
+  {
+    "id": "262",
+    "name": "Djibouti",
+    "rate": 0.34,
+    "url": "https://en.wikipedia.org/wiki/Djibouti"
+  },
+  {
+    "id": "266",
+    "name": "Gabon",
+    "rate": 0.34,
+    "url": "https://en.wikipedia.org/wiki/Gabon"
+  },
+  {
+    "id": "268",
+    "name": "Georgia",
+    "rate": 0.34,
+    "url": "https://en.wikipedia.org/wiki/Georgia"
+  },
+  {
+    "id": "270",
+    "name": "Gambia",
+    "rate": 0.3555,
+    "url": "https://en.wikipedia.org/wiki/Gambia"
+  },
+  {
+    "id": "275",
+    "name": "Palestine",
+    "rate": 0.3555,
+    "url": "https://en.wikipedia.org/wiki/Palestine"
+  },
+  {
+    "id": "276",
+    "name": "Germany",
+    "rate": 0.3555,
+    "url": "https://en.wikipedia.org/wiki/Germany"
+  },
+  {
+    "id": "288",
+    "name": "Ghana",
+    "rate": 0.3555,
+    "url": "https://en.wikipedia.org/wiki/Ghana"
+  },
+  {
+    "id": "292",
+    "name": "Gibraltar",
+    "rate": 0.75,
+    "url": "https://en.wikipedia.org/wiki/Gibraltar"
+  },
+  {
+    "id": "296",
+    "name": "Kiribati",
+    "rate": 0.75,
+    "url": "https://en.wikipedia.org/wiki/Kiribati"
+  },
+  {
+    "id": "300",
+    "name": "Greece",
+    "rate": 0.75,
+    "url": "https://en.wikipedia.org/wiki/Greece"
+  },
+  {
+    "id": "304",
+    "name": "Greenland",
+    "rate": 0.75,
+    "url": "https://en.wikipedia.org/wiki/Greenland"
+  },
+  {
+    "id": "308",
+    "name": "Grenada",
+    "rate": 0.2,
+    "url": "https://en.wikipedia.org/wiki/Grenada"
+  },
+  {
+    "id": "312",
+    "name": "Guadeloupe",
+    "rate": 0.2,
+    "url": "https://en.wikipedia.org/wiki/Guadeloupe"
+  },
+  {
+    "id": "316",
+    "name": "Guam",
+    "rate": 0.2,
+    "url": "https://en.wikipedia.org/wiki/Guam"
+  },
+  {
+    "id": "320",
+    "name": "Guatemala",
+    "rate": 0.2,
+    "url": "https://en.wikipedia.org/wiki/Guatemala"
+  },
+  {
+    "id": "324",
+    "name": "Guinea",
+    "rate": 0.5,
+    "url": "https://en.wikipedia.org/wiki/Guinea"
+  },
+  {
+    "id": "328",
+    "name": "Guyana",
+    "rate": 0.5,
+    "url": "https://en.wikipedia.org/wiki/Guyana"
+  },
+  {
+    "id": "332",
+    "name": "Haiti",
+    "rate": 0.5,
+    "url": "https://en.wikipedia.org/wiki/Haiti"
+  },
+  {
+    "id": "334",
+    "name": "Heard Island and McDonald Islands",
+    "rate": 0.5,
+    "url": "https://en.wikipedia.org/wiki/Heard_Island_and_McDonald_Islands"
+  },
+  {
+    "id": "336",
+    "name": "Holy See",
+    "rate": 0.5,
+    "url": "https://en.wikipedia.org/wiki/Holy_See"
+  },
+  {
+    "id": "340",
+    "name": "Honduras",
+    "rate": 0.5,
+    "url": "https://en.wikipedia.org/wiki/Honduras"
+  },
+  {
+    "id": "344",
+    "name": "Hong Kong",
+    "rate": 0.667,
+    "url": "https://en.wikipedia.org/wiki/Hong_Kong"
+  },
+  {
+    "id": "348",
+    "name": "Hungary",
+    "rate": 0.667,
+    "url": "https://en.wikipedia.org/wiki/Hungary"
+  },
+  {
+    "id": "352",
+    "name": "Iceland",
+    "rate": 0.667,
+    "url": "https://en.wikipedia.org/wiki/Iceland"
+  },
+  {
+    "id": "356",
+    "name": "India",
+    "rate": 0.667,
+    "url": "https://en.wikipedia.org/wiki/India"
+  },
+  {
+    "id": "360",
+    "name": "Indonesia",
+    "rate": 0.667,
+    "url": "https://en.wikipedia.org/wiki/Indonesia"
+  },
+  {
+    "id": "364",
+    "name": "Iran",
+    "rate": 0.6644,
+    "url": "https://en.wikipedia.org/wiki/Iran"
+  },
+  {
+    "id": "368",
+    "name": "Iraq",
+    "rate": 0.44,
+    "url": "https://en.wikipedia.org/wiki/Iraq"
+  },
+  {
+    "id": "372",
+    "name": "Ireland",
+    "rate": 0.44,
+    "url": "https://en.wikipedia.org/wiki/Ireland"
+  },
+  {
+    "id": "376",
+    "name": "Israel",
+    "rate": 0.44,
+    "url": "https://en.wikipedia.org/wiki/Israel"
+  },
+  {
+    "id": "380",
+    "name": "Italy",
+    "rate": 0.44,
+    "url": "https://en.wikipedia.org/wiki/Italy"
+  },
+  {
+    "id": "384",
+    "name": "Côte d'Ivoire",
+    "rate": 0.44,
+    "url": "https://en.wikipedia.org/wiki/C%C3%B4te_d'Ivoire"
+  },
+  {
+    "id": "388",
+    "name": "Jamaica",
+    "rate": 0.44,
+    "url": "https://en.wikipedia.org/wiki/Jamaica"
+  },
+  {
+    "id": "392",
+    "name": "Japan",
+    "rate": 0.55,
+    "url": "https://en.wikipedia.org/wiki/Japan"
+  },
+  {
+    "id": "398",
+    "name": "Kazakhstan",
+    "rate": 0.55,
+    "url": "https://en.wikipedia.org/wiki/Kazakhstan"
+  },
+  {
+    "id": "400",
+    "name": "Jordan",
+    "rate": 0.55,
+    "url": "https://en.wikipedia.org/wiki/Jordan"
+  },
+  {
+    "id": "404",
+    "name": "Kenya",
+    "rate": 0.55,
+    "url": "https://en.wikipedia.org/wiki/Kenya"
+  },
+  {
+    "id": "408",
+    "name": "North Korea",
+    "rate": 0.55,
+    "url": "https://en.wikipedia.org/wiki/North_Korea"
+  },
+  {
+    "id": "410",
+    "name": "South Korea",
+    "rate": 0.55,
+    "url": "https://en.wikipedia.org/wiki/South_Korea"
+  },
+  {
+    "id": "414",
+    "name": "Kuwait",
+    "rate": 0.78,
+    "url": "https://en.wikipedia.org/wiki/Kuwait"
+  },
+  {
+    "id": "417",
+    "name": "Kyrgyzstan",
+    "rate": 0.78,
+    "url": "https://en.wikipedia.org/wiki/Kyrgyzstan"
+  },
+  {
+    "id": "418",
+    "name": "Laos",
+    "rate": 0.78,
+    "url": "https://en.wikipedia.org/wiki/Laos"
+  },
+  {
+    "id": "422",
+    "name": "Lebanon",
+    "rate": 0.78,
+    "url": "https://en.wikipedia.org/wiki/Lebanon"
+  },
+  {
+    "id": "426",
+    "name": "Lesotho",
+    "rate": 0.78,
+    "url": "https://en.wikipedia.org/wiki/Lesotho"
+  },
+  {
+    "id": "428",
+    "name": "Latvia",
+    "rate": 0.78,
+    "url": "https://en.wikipedia.org/wiki/Latvia"
+  },
+  {
+    "id": "430",
+    "name": "Liberia",
+    "rate": 0.98,
+    "url": "https://en.wikipedia.org/wiki/Liberia"
+  },
+  {
+    "id": "434",
+    "name": "Libya",
+    "rate": 0.98,
+    "url": "https://en.wikipedia.org/wiki/Libya"
+  },
+  {
+    "id": "438",
+    "name": "Liechtenstein",
+    "rate": 0.98,
+    "url": "https://en.wikipedia.org/wiki/Liechtenstein"
+  },
+  {
+    "id": "440",
+    "name": "Lithuania",
+    "rate": 0.98,
+    "url": "https://en.wikipedia.org/wiki/Lithuania"
+  },
+  {
+    "id": "442",
+    "name": "Luxembourg",
+    "rate": 0.98,
+    "url": "https://en.wikipedia.org/wiki/Luxembourg"
+  },
+  {
+    "id": "446",
+    "name": "Macao",
+    "rate": 0.98,
+    "url": "https://en.wikipedia.org/wiki/Macao"
+  },
+  {
+    "id": "450",
+    "name": "Madagascar",
+    "rate": 0.32,
+    "url": "https://en.wikipedia.org/wiki/Madagascar"
+  },
+  {
+    "id": "454",
+    "name": "Malawi",
+    "rate": 0.32,
+    "url": "https://en.wikipedia.org/wiki/Malawi"
+  },
+  {
+    "id": "458",
+    "name": "Malaysia",
+    "rate": 0.32,
+    "url": "https://en.wikipedia.org/wiki/Malaysia"
+  },
+  {
+    "id": "462",
+    "name": "Maldives",
+    "rate": 0.32,
+    "url": "https://en.wikipedia.org/wiki/Maldives"
+  },
+  {
+    "id": "466",
+    "name": "Mali",
+    "rate": 0.32,
+    "url": "https://en.wikipedia.org/wiki/Mali"
+  },
+  {
+    "id": "470",
+    "name": "Malta",
+    "rate": 0.32,
+    "url": "https://en.wikipedia.org/wiki/Malta"
+  },
+  {
+    "id": "474",
+    "name": "Martinique",
+    "rate": 0.32,
+    "url": "https://en.wikipedia.org/wiki/Martinique"
+  },
+  {
+    "id": "478",
+    "name": "Mauritania",
+    "rate": 0.32,
+    "url": "https://en.wikipedia.org/wiki/Mauritania"
+  },
+  {
+    "id": "480",
+    "name": "Mauritius",
+    "rate": 0.32,
+    "url": "https://en.wikipedia.org/wiki/Mauritius"
+  },
+  {
+    "id": "484",
+    "name": "Mexico",
+    "rate": 0.45,
+    "url": "https://en.wikipedia.org/wiki/Mexico"
+  },
+  {
+    "id": "492",
+    "name": "Monaco",
+    "rate": 0.45,
+    "url": "https://en.wikipedia.org/wiki/Monaco"
+  },
+  {
+    "id": "496",
+    "name": "Mongolia",
+    "rate": 0.45,
+    "url": "https://en.wikipedia.org/wiki/Mongolia"
+  },
+  {
+    "id": "498",
+    "name": "Moldova",
+    "rate": 0.45,
+    "url": "https://en.wikipedia.org/wiki/Moldova"
+  },
+  {
+    "id": "499",
+    "name": "Montenegro",
+    "rate": 0.45,
+    "url": "https://en.wikipedia.org/wiki/Montenegro"
+  },
+  {
+    "id": "500",
+    "name": "Montserrat",
+    "rate": 0.45,
+    "url": "https://en.wikipedia.org/wiki/Montserrat"
+  },
+  {
+    "id": "504",
+    "name": "Morocco",
+    "rate": 0.45,
+    "url": "https://en.wikipedia.org/wiki/Morocco"
+  },
+  {
+    "id": "508",
+    "name": "Mozambique",
+    "rate": 0.45,
+    "url": "https://en.wikipedia.org/wiki/Mozambique"
+  },
+  {
+    "id": "512",
+    "name": "Oman",
+    "rate": 0.56,
+    "url": "https://en.wikipedia.org/wiki/Oman"
+  },
+  {
+    "id": "516",
+    "name": "Namibia",
+    "rate": 0.56,
+    "url": "https://en.wikipedia.org/wiki/Namibia"
+  },
+  {
+    "id": "520",
+    "name": "Nauru",
+    "rate": 0.56,
+    "url": "https://en.wikipedia.org/wiki/Nauru"
+  },
+  {
+    "id": "524",
+    "name": "Nepal",
+    "rate": 0.56,
+    "url": "https://en.wikipedia.org/wiki/Nepal"
+  },
+  {
+    "id": "528",
+    "name": "Netherlands",
+    "rate": 0.56,
+    "url": "https://en.wikipedia.org/wiki/Netherlands"
+  },
+  {
+    "id": "531",
+    "name": "Curaçao",
+    "rate": 0.56,
+    "url": "https://en.wikipedia.org/wiki/Cura%C3%A7ao"
+  },
+  {
+    "id": "533",
+    "name": "Aruba",
+    "rate": 0.56,
+    "url": "https://en.wikipedia.org/wiki/Aruba"
+  },
+  {
+    "id": "534",
+    "name": "Sint Maarten (Dutch part)",
+    "rate": 0.57,
+    "url": "https://en.wikipedia.org/wiki/Sint_Maarten_(Dutch_part)"
+  },
+  {
+    "id": "535",
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "rate": 0.57,
+    "url": "https://en.wikipedia.org/wiki/Bonaire%2C_Sint_Eustatius_and_Saba"
+  },
+  {
+    "id": "540",
+    "name": "New Caledonia",
+    "rate": 0.57,
+    "url": "https://en.wikipedia.org/wiki/New_Caledonia"
+  },
+  {
+    "id": "548",
+    "name": "Vanuatu",
+    "rate": 0.57,
+    "url": "https://en.wikipedia.org/wiki/Vanuatu"
+  },
+  {
+    "id": "554",
+    "name": "New Zealand",
+    "rate": 0.57,
+    "url": "https://en.wikipedia.org/wiki/New_Zealand"
+  },
+  {
+    "id": "558",
+    "name": "Nicaragua",
+    "rate": 0.23,
+    "url": "https://en.wikipedia.org/wiki/Nicaragua"
+  },
+  {
+    "id": "562",
+    "name": "Niger",
+    "rate": 0.23,
+    "url": "https://en.wikipedia.org/wiki/Niger"
+  },
+  {
+    "id": "566",
+    "name": "Nigeria",
+    "rate": 0.23,
+    "url": "https://en.wikipedia.org/wiki/Nigeria"
+  },
+  {
+    "id": "570",
+    "name": "Niue",
+    "rate": 0.23,
+    "url": "https://en.wikipedia.org/wiki/Niue"
+  },
+  {
+    "id": "574",
+    "name": "Norfolk Island",
+    "rate": 0.23,
+    "url": "https://en.wikipedia.org/wiki/Norfolk_Island"
+  },
+  {
+    "id": "578",
+    "name": "Norway",
+    "rate": 0.23,
+    "url": "https://en.wikipedia.org/wiki/Norway"
+  },
+  {
+    "id": "580",
+    "name": "Northern Mariana Islands",
+    "rate": 0.59,
+    "url": "https://en.wikipedia.org/wiki/Northern_Mariana_Islands"
+  },
+  {
+    "id": "581",
+    "name": "United States Minor Outlying Islands",
+    "rate": 0.59,
+    "url": "https://en.wikipedia.org/wiki/United_States_Minor_Outlying_Islands"
+  },
+  {
+    "id": "583",
+    "name": "Micronesia (Federated States of)",
+    "rate": 0.59,
+    "url": "https://en.wikipedia.org/wiki/Micronesia_(Federated_States_of)"
+  },
+  {
+    "id": "584",
+    "name": "Marshall Islands",
+    "rate": 0.59,
+    "url": "https://en.wikipedia.org/wiki/Marshall_Islands"
+  },
+  {
+    "id": "585",
+    "name": "Palau",
+    "rate": 0.59,
+    "url": "https://en.wikipedia.org/wiki/Palau"
+  },
+  {
+    "id": "586",
+    "name": "Pakistan",
+    "rate": 0.59,
+    "url": "https://en.wikipedia.org/wiki/Pakistan"
+  },
+  {
+    "id": "591",
+    "name": "Panama",
+    "rate": 0.59,
+    "url": "https://en.wikipedia.org/wiki/Panama"
+  },
+  {
+    "id": "598",
+    "name": "Papua New Guinea",
+    "rate": 0.59,
+    "url": "https://en.wikipedia.org/wiki/Papua_New_Guinea"
+  },
+  {
+    "id": "600",
+    "name": "Paraguay",
+    "rate": 0.59,
+    "url": "https://en.wikipedia.org/wiki/Paraguay"
+  },
+  {
+    "id": "604",
+    "name": "Peru",
+    "rate": 0.18,
+    "url": "https://en.wikipedia.org/wiki/Peru"
+  },
+  {
+    "id": "608",
+    "name": "Philippines",
+    "rate": 0.18,
+    "url": "https://en.wikipedia.org/wiki/Philippines"
+  },
+  {
+    "id": "612",
+    "name": "Pitcairn",
+    "rate": 0.18,
+    "url": "https://en.wikipedia.org/wiki/Pitcairn"
+  },
+  {
+    "id": "616",
+    "name": "Poland",
+    "rate": 0.18,
+    "url": "https://en.wikipedia.org/wiki/Poland"
+  },
+  {
+    "id": "620",
+    "name": "Portugal",
+    "rate": 0.18,
+    "url": "https://en.wikipedia.org/wiki/Portugal"
+  },
+  {
+    "id": "624",
+    "name": "Guinea-Bissau",
+    "rate": 0.18,
+    "url": "https://en.wikipedia.org/wiki/Guinea-Bissau"
+  },
+  {
+    "id": "626",
+    "name": "Timor-Leste",
+    "rate": 0.18,
+    "url": "https://en.wikipedia.org/wiki/Timor-Leste"
+  },
+  {
+    "id": "630",
+    "name": "Puerto Rico",
+    "rate": 0.18,
+    "url": "https://en.wikipedia.org/wiki/Puerto_Rico"
+  },
+  {
+    "id": "634",
+    "name": "Qatar",
+    "rate": 0.18,
+    "url": "https://en.wikipedia.org/wiki/Qatar"
+  },
+  {
+    "id": "638",
+    "name": "Réunion",
+    "rate": 0.01,
+    "url": "https://en.wikipedia.org/wiki/R%C3%A9union"
+  },
+  {
+    "id": "642",
+    "name": "Romania",
+    "rate": 0.01,
+    "url": "https://en.wikipedia.org/wiki/Romania"
+  },
+  {
+    "id": "643",
+    "name": "Russia",
+    "rate": 0.01,
+    "url": "https://en.wikipedia.org/wiki/Russia"
+  },
+  {
+    "id": "646",
+    "name": "Rwanda",
+    "rate": 0.01,
+    "url": "https://en.wikipedia.org/wiki/Rwanda"
+  },
+  {
+    "id": "652",
+    "name": "Saint Barthélemy",
+    "rate": 0.2,
+    "url": "https://en.wikipedia.org/wiki/Saint_Barth%C3%A9lemy"
+  },
   {
     "id": "654",
     "name": "Saint Helena, Ascension and Tristan da Cunha",
-    "rate": 0.2
+    "rate": 0.2,
+    "url": "https://en.wikipedia.org/wiki/Saint_Helena%2C_Ascension_and_Tristan_da_Cunha"
   },
-  { "id": "659", "name": "Saint Kitts and Nevis", "rate": 0.2 },
-  { "id": "660", "name": "Anguilla", "rate": 0.2 },
-  { "id": "662", "name": "Saint Lucia", "rate": 0.2 },
-  { "id": "663", "name": "Saint Martin (French part)", "rate": 0.2 },
-  { "id": "666", "name": "Saint Pierre and Miquelon", "rate": 0.2 },
-  { "id": "670", "name": "Saint Vincent and the Grenadines", "rate": 0.2 },
-  { "id": "674", "name": "San Marino", "rate": 0.2 },
-  { "id": "678", "name": "Sao Tome and Principe", "rate": 0.2 },
-  { "id": "682", "name": "Saudi Arabia", "rate": 0.3 },
-  { "id": "686", "name": "Senegal", "rate": 0.3 },
-  { "id": "688", "name": "Serbia", "rate": 0.3 },
-  { "id": "690", "name": "Seychelles", "rate": 0.3 },
-  { "id": "694", "name": "Sierra Leone", "rate": 0.3 },
-  { "id": "702", "name": "Singapore", "rate": 0.3 },
-  { "id": "703", "name": "Slovakia", "rate": 0.3 },
-  { "id": "704", "name": "Vietnam", "rate": 0.67 },
-  { "id": "705", "name": "Slovenia", "rate": 0.67 },
-  { "id": "706", "name": "Somalia", "rate": 0.67 },
-  { "id": "710", "name": "South Africa", "rate": 0.67 },
-  { "id": "716", "name": "Zimbabwe", "rate": 0.67 },
-  { "id": "724", "name": "Spain", "rate": 0.67 },
-  { "id": "728", "name": "S. Sudan", "rate": 0.67 },
-  { "id": "729", "name": "Sudan", "rate": 0.67 },
-  { "id": "732", "name": "W. Sahara", "rate": 0.67 },
-  { "id": "740", "name": "Suriname", "rate": 0.67 },
-  { "id": "744", "name": "Svalbard and Jan Mayen", "rate": 0.36 },
-  { "id": "748", "name": "eSwatini", "rate": 0.36 },
-  { "id": "752", "name": "Sweden", "rate": 0.36 },
-  { "id": "756", "name": "Switzerland", "rate": 0.36 },
-  { "id": "760", "name": "Syria", "rate": 0.36 },
-  { "id": "762", "name": "Tajikistan", "rate": 0.36 },
-  { "id": "764", "name": "Thailand", "rate": 0.36 },
-  { "id": "768", "name": "Togo", "rate": 0.5 },
-  { "id": "772", "name": "Tokelau", "rate": 0.5 },
-  { "id": "776", "name": "Tonga", "rate": 0.5 },
-  { "id": "780", "name": "Trinidad and Tobago", "rate": 0.5 },
-  { "id": "784", "name": "United Arab Emirates", "rate": 0.5 },
-  { "id": "788", "name": "Tunisia", "rate": 0.5 },
-  { "id": "792", "name": "Turkey", "rate": 0.87 },
-  { "id": "795", "name": "Turkmenistan", "rate": 0.87 },
-  { "id": "796", "name": "Turks and Caicos Islands", "rate": 0.87 },
-  { "id": "798", "name": "Tuvalu", "rate": 0.87 },
-  { "id": "800", "name": "Uganda", "rate": 0.87 },
-  { "id": "804", "name": "Ukraine", "rate": 0.87 },
-  { "id": "807", "name": "Macedonia", "rate": 0.87 },
-  { "id": "818", "name": "Egypt", "rate": 0.87 },
-  { "id": "826", "name": "United Kingdom", "rate": 0.32 },
-  { "id": "831", "name": "Guernsey", "rate": 0.32 },
-  { "id": "832", "name": "Jersey", "rate": 0.32 },
-  { "id": "833", "name": "Isle of Man", "rate": 0.32 },
-  { "id": "834", "name": "Tanzania", "rate": 0.32 },
-  { "id": "840", "name": "United States of America", "rate": 0.32 },
-  { "id": "850", "name": "Virgin Islands (U.S.)", "rate": 0.14 },
-  { "id": "854", "name": "Burkina Faso", "rate": 0.14 },
-  { "id": "858", "name": "Uruguay", "rate": 0.14 },
-  { "id": "860", "name": "Uzbekistan", "rate": 0.14 },
-  { "id": "862", "name": "Venezuela", "rate": 0.14 },
-  { "id": "876", "name": "Wallis and Futuna", "rate": 0.17 },
-  { "id": "882", "name": "Samoa", "rate": 0.17 },
-  { "id": "887", "name": "Yemen", "rate": 0.17 },
-  { "id": "894", "name": "Zambia", "rate": 0.17 }
+  {
+    "id": "659",
+    "name": "Saint Kitts and Nevis",
+    "rate": 0.2,
+    "url": "https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis"
+  },
+  {
+    "id": "660",
+    "name": "Anguilla",
+    "rate": 0.2,
+    "url": "https://en.wikipedia.org/wiki/Anguilla"
+  },
+  {
+    "id": "662",
+    "name": "Saint Lucia",
+    "rate": 0.2,
+    "url": "https://en.wikipedia.org/wiki/Saint_Lucia"
+  },
+  {
+    "id": "663",
+    "name": "Saint Martin (French part)",
+    "rate": 0.2,
+    "url": "https://en.wikipedia.org/wiki/Saint_Martin_(French_part)"
+  },
+  {
+    "id": "666",
+    "name": "Saint Pierre and Miquelon",
+    "rate": 0.2,
+    "url": "https://en.wikipedia.org/wiki/Saint_Pierre_and_Miquelon"
+  },
+  {
+    "id": "670",
+    "name": "Saint Vincent and the Grenadines",
+    "rate": 0.2,
+    "url": "https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines"
+  },
+  {
+    "id": "674",
+    "name": "San Marino",
+    "rate": 0.2,
+    "url": "https://en.wikipedia.org/wiki/San_Marino"
+  },
+  {
+    "id": "678",
+    "name": "Sao Tome and Principe",
+    "rate": 0.2,
+    "url": "https://en.wikipedia.org/wiki/Sao_Tome_and_Principe"
+  },
+  {
+    "id": "682",
+    "name": "Saudi Arabia",
+    "rate": 0.3,
+    "url": "https://en.wikipedia.org/wiki/Saudi_Arabia"
+  },
+  {
+    "id": "686",
+    "name": "Senegal",
+    "rate": 0.3,
+    "url": "https://en.wikipedia.org/wiki/Senegal"
+  },
+  {
+    "id": "688",
+    "name": "Serbia",
+    "rate": 0.3,
+    "url": "https://en.wikipedia.org/wiki/Serbia"
+  },
+  {
+    "id": "690",
+    "name": "Seychelles",
+    "rate": 0.3,
+    "url": "https://en.wikipedia.org/wiki/Seychelles"
+  },
+  {
+    "id": "694",
+    "name": "Sierra Leone",
+    "rate": 0.3,
+    "url": "https://en.wikipedia.org/wiki/Sierra_Leone"
+  },
+  {
+    "id": "702",
+    "name": "Singapore",
+    "rate": 0.3,
+    "url": "https://en.wikipedia.org/wiki/Singapore"
+  },
+  {
+    "id": "703",
+    "name": "Slovakia",
+    "rate": 0.3,
+    "url": "https://en.wikipedia.org/wiki/Slovakia"
+  },
+  {
+    "id": "704",
+    "name": "Vietnam",
+    "rate": 0.67,
+    "url": "https://en.wikipedia.org/wiki/Vietnam"
+  },
+  {
+    "id": "705",
+    "name": "Slovenia",
+    "rate": 0.67,
+    "url": "https://en.wikipedia.org/wiki/Slovenia"
+  },
+  {
+    "id": "706",
+    "name": "Somalia",
+    "rate": 0.67,
+    "url": "https://en.wikipedia.org/wiki/Somalia"
+  },
+  {
+    "id": "710",
+    "name": "South Africa",
+    "rate": 0.67,
+    "url": "https://en.wikipedia.org/wiki/South_Africa"
+  },
+  {
+    "id": "716",
+    "name": "Zimbabwe",
+    "rate": 0.67,
+    "url": "https://en.wikipedia.org/wiki/Zimbabwe"
+  },
+  {
+    "id": "724",
+    "name": "Spain",
+    "rate": 0.67,
+    "url": "https://en.wikipedia.org/wiki/Spain"
+  },
+  {
+    "id": "728",
+    "name": "S. Sudan",
+    "rate": 0.67,
+    "url": "https://en.wikipedia.org/wiki/S._Sudan"
+  },
+  {
+    "id": "729",
+    "name": "Sudan",
+    "rate": 0.67,
+    "url": "https://en.wikipedia.org/wiki/Sudan"
+  },
+  {
+    "id": "732",
+    "name": "W. Sahara",
+    "rate": 0.67,
+    "url": "https://en.wikipedia.org/wiki/W._Sahara"
+  },
+  {
+    "id": "740",
+    "name": "Suriname",
+    "rate": 0.67,
+    "url": "https://en.wikipedia.org/wiki/Suriname"
+  },
+  {
+    "id": "744",
+    "name": "Svalbard and Jan Mayen",
+    "rate": 0.36,
+    "url": "https://en.wikipedia.org/wiki/Svalbard_and_Jan_Mayen"
+  },
+  {
+    "id": "748",
+    "name": "eSwatini",
+    "rate": 0.36,
+    "url": "https://en.wikipedia.org/wiki/eSwatini"
+  },
+  {
+    "id": "752",
+    "name": "Sweden",
+    "rate": 0.36,
+    "url": "https://en.wikipedia.org/wiki/Sweden"
+  },
+  {
+    "id": "756",
+    "name": "Switzerland",
+    "rate": 0.36,
+    "url": "https://en.wikipedia.org/wiki/Switzerland"
+  },
+  {
+    "id": "760",
+    "name": "Syria",
+    "rate": 0.36,
+    "url": "https://en.wikipedia.org/wiki/Syria"
+  },
+  {
+    "id": "762",
+    "name": "Tajikistan",
+    "rate": 0.36,
+    "url": "https://en.wikipedia.org/wiki/Tajikistan"
+  },
+  {
+    "id": "764",
+    "name": "Thailand",
+    "rate": 0.36,
+    "url": "https://en.wikipedia.org/wiki/Thailand"
+  },
+  {
+    "id": "768",
+    "name": "Togo",
+    "rate": 0.5,
+    "url": "https://en.wikipedia.org/wiki/Togo"
+  },
+  {
+    "id": "772",
+    "name": "Tokelau",
+    "rate": 0.5,
+    "url": "https://en.wikipedia.org/wiki/Tokelau"
+  },
+  {
+    "id": "776",
+    "name": "Tonga",
+    "rate": 0.5,
+    "url": "https://en.wikipedia.org/wiki/Tonga"
+  },
+  {
+    "id": "780",
+    "name": "Trinidad and Tobago",
+    "rate": 0.5,
+    "url": "https://en.wikipedia.org/wiki/Trinidad_and_Tobago"
+  },
+  {
+    "id": "784",
+    "name": "United Arab Emirates",
+    "rate": 0.5,
+    "url": "https://en.wikipedia.org/wiki/United_Arab_Emirates"
+  },
+  {
+    "id": "788",
+    "name": "Tunisia",
+    "rate": 0.5,
+    "url": "https://en.wikipedia.org/wiki/Tunisia"
+  },
+  {
+    "id": "792",
+    "name": "Turkey",
+    "rate": 0.87,
+    "url": "https://en.wikipedia.org/wiki/Turkey"
+  },
+  {
+    "id": "795",
+    "name": "Turkmenistan",
+    "rate": 0.87,
+    "url": "https://en.wikipedia.org/wiki/Turkmenistan"
+  },
+  {
+    "id": "796",
+    "name": "Turks and Caicos Islands",
+    "rate": 0.87,
+    "url": "https://en.wikipedia.org/wiki/Turks_and_Caicos_Islands"
+  },
+  {
+    "id": "798",
+    "name": "Tuvalu",
+    "rate": 0.87,
+    "url": "https://en.wikipedia.org/wiki/Tuvalu"
+  },
+  {
+    "id": "800",
+    "name": "Uganda",
+    "rate": 0.87,
+    "url": "https://en.wikipedia.org/wiki/Uganda"
+  },
+  {
+    "id": "804",
+    "name": "Ukraine",
+    "rate": 0.87,
+    "url": "https://en.wikipedia.org/wiki/Ukraine"
+  },
+  {
+    "id": "807",
+    "name": "Macedonia",
+    "rate": 0.87,
+    "url": "https://en.wikipedia.org/wiki/Macedonia"
+  },
+  {
+    "id": "818",
+    "name": "Egypt",
+    "rate": 0.87,
+    "url": "https://en.wikipedia.org/wiki/Egypt"
+  },
+  {
+    "id": "826",
+    "name": "United Kingdom",
+    "rate": 0.32,
+    "url": "https://en.wikipedia.org/wiki/United_Kingdom"
+  },
+  {
+    "id": "831",
+    "name": "Guernsey",
+    "rate": 0.32,
+    "url": "https://en.wikipedia.org/wiki/Guernsey"
+  },
+  {
+    "id": "832",
+    "name": "Jersey",
+    "rate": 0.32,
+    "url": "https://en.wikipedia.org/wiki/Jersey"
+  },
+  {
+    "id": "833",
+    "name": "Isle of Man",
+    "rate": 0.32,
+    "url": "https://en.wikipedia.org/wiki/Isle_of_Man"
+  },
+  {
+    "id": "834",
+    "name": "Tanzania",
+    "rate": 0.32,
+    "url": "https://en.wikipedia.org/wiki/Tanzania"
+  },
+  {
+    "id": "840",
+    "name": "United States of America",
+    "rate": 0.32,
+    "url": "https://en.wikipedia.org/wiki/United_States_of_America"
+  },
+  {
+    "id": "850",
+    "name": "Virgin Islands (U.S.)",
+    "rate": 0.14,
+    "url": "https://en.wikipedia.org/wiki/Virgin_Islands_(U.S.)"
+  },
+  {
+    "id": "854",
+    "name": "Burkina Faso",
+    "rate": 0.14,
+    "url": "https://en.wikipedia.org/wiki/Burkina_Faso"
+  },
+  {
+    "id": "858",
+    "name": "Uruguay",
+    "rate": 0.14,
+    "url": "https://en.wikipedia.org/wiki/Uruguay"
+  },
+  {
+    "id": "860",
+    "name": "Uzbekistan",
+    "rate": 0.14,
+    "url": "https://en.wikipedia.org/wiki/Uzbekistan"
+  },
+  {
+    "id": "862",
+    "name": "Venezuela",
+    "rate": 0.14,
+    "url": "https://en.wikipedia.org/wiki/Venezuela"
+  },
+  {
+    "id": "876",
+    "name": "Wallis and Futuna",
+    "rate": 0.17,
+    "url": "https://en.wikipedia.org/wiki/Wallis_and_Futuna"
+  },
+  {
+    "id": "882",
+    "name": "Samoa",
+    "rate": 0.17,
+    "url": "https://en.wikipedia.org/wiki/Samoa"
+  },
+  {
+    "id": "887",
+    "name": "Yemen",
+    "rate": 0.17,
+    "url": "https://en.wikipedia.org/wiki/Yemen"
+  },
+  {
+    "id": "894",
+    "name": "Zambia",
+    "rate": 0.17,
+    "url": "https://en.wikipedia.org/wiki/Zambia"
+  }
 ]
