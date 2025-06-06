@@ -1,5 +1,5 @@
 [
-  { "group": "A", "variable": "v1", "value": -20 },
+  { "group": "A", "variable": "v1", "value": -20, "url": "https://en.wikipedia.org/wiki/Heat_map"  },
   { "group": "A", "variable": "v2", "value": 45 },
   { "group": "A", "variable": "v3", "value": -28 },
   { "group": "A", "variable": "v4", "value": -36 },
