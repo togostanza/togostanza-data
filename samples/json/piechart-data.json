@@ -2,22 +2,28 @@
   {
     "category": "Evidence at protein level",
     "count": "1864",
-    "url": "https://en.wikipedia.org/wiki/Pie_chart"
+    "url": "https://en.wikipedia.org/wiki/Pie_chart",
+    "group": "class1"
   },
   {
     "category": "Evidence at transcript level",
-    "count": "124"
+    "count": "124",
+    "color": "#B5184F",
+    "group": "class2"
   },
   {
     "category": "Inferred from homology",
-    "count": "28"
+    "count": "28",
+    "group": "class3"
   },
   {
     "category": "Predicted",
-    "count": "2"
+    "count": "2",
+    "group": "class3"
   },
   {
     "category": "Uncertain",
-    "count": "47"
+    "count": "47",
+    "group": "class4"
   }
 ]
