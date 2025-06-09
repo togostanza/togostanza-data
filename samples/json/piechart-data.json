@@ -1,0 +1,22 @@
+[
+  {
+    "category": "Evidence at protein level",
+    "count": "1864"
+  },
+  {
+    "category": "Evidence at transcript level",
+    "count": "124"
+  },
+  {
+    "category": "Inferred from homology",
+    "count": "28"
+  },
+  {
+    "category": "Predicted",
+    "count": "2"
+  },
+  {
+    "category": "Uncertain",
+    "count": "47"
+  }
+]
