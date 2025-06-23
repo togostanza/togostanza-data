@@ -1,7 +1,7 @@
 {
   "nodes": [
-    {"id": "Myriel", "url": "https://en.wikipedia.org/wiki/Bishop_Myriel", "group": 1},
-    {"id": "Napoleon", "url": "https://www.reddit.com/r/Napoleon/comments/1fs15xa/found_a_cool_reference_to_napoleon_in_les/", "group": 1},
+    {"id": "Myriel", "url": "https://en.wikipedia.org/wiki/Bishop_Myriel", "color":"#FF0000", "group": 1},
+    {"id": "Napoleon", "url": "https://www.reddit.com/r/Napoleon/comments/1fs15xa/found_a_cool_reference_to_napoleon_in_les/", "color": "00FF00", "group": 1},
     {"id": "Mlle.Baptistine", "group": 1},
     {"id": "Mme.Magloire", "group": 1},
     {"id": "CountessdeLo", "group": 1},
