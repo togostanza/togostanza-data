@@ -1,0 +1,257 @@
+[
+  {
+    "population": "13988129",
+    "area": "2194",
+    "density": "6375",
+    "pref": "Tokyo",
+    "url": "https://en.wikipedia.org/wiki/Tokyo"
+  },
+  {
+    "population": "8823358",
+    "area": "1905",
+    "density": "4631",
+    "pref": "Osaka Prefecture",
+    "url": "https://en.wikipedia.org/wiki/Osaka_Prefecture"
+  },
+  {
+    "population": "7552873",
+    "area": "5172",
+    "density": "1460",
+    "pref": "Aichi Prefecture",
+    "url": "https://en.wikipedia.org/wiki/Aichi_Prefecture"
+  },
+  {
+    "population": "7338536",
+    "area": "3797",
+    "density": "1932",
+    "pref": "Saitama Prefecture"
+  },
+  {
+    "population": "6278060",
+    "area": "5157",
+    "density": "1217",
+    "pref": "Chiba Prefecture"
+  },
+  {
+    "population": "5469762",
+    "area": "8400",
+    "density": "651",
+    "pref": "Hyōgo Prefecture"
+  },
+  {
+    "population": "5281297",
+    "area": "83423",
+    "density": "63",
+    "pref": "Hokkaido"
+  },
+  {
+    "population": "5109323",
+    "area": "4986",
+    "density": "1024",
+    "pref": "Fukuoka Prefecture"
+  },
+  {
+    "population": "3637998",
+    "area": "7777",
+    "density": "467",
+    "pref": "Shizuoka Prefecture"
+  },
+  {
+    "population": "2852515",
+    "area": "6097",
+    "density": "467",
+    "pref": "Ibaraki Prefecture"
+  },
+  {
+    "population": "2811410",
+    "area": "8479",
+    "density": "331",
+    "pref": "Hiroshima Prefecture"
+  },
+  {
+    "population": "2578087",
+    "area": "4612",
+    "density": "558",
+    "pref": "Kyoto Prefecture"
+  },
+  {
+    "population": "2227496",
+    "area": "12584",
+    "density": "177",
+    "pref": "Niigata Prefecture"
+  },
+  {
+    "population": "2052493",
+    "area": "13561",
+    "density": "151",
+    "pref": "Nagano Prefecture"
+  },
+  {
+    "population": "1991390",
+    "area": "10621",
+    "density": "187",
+    "pref": "Gifu Prefecture"
+  },
+  {
+    "population": "1943886",
+    "area": "6408",
+    "density": "303",
+    "pref": "Tochigi Prefecture"
+  },
+  {
+    "population": "1937626",
+    "area": "6362",
+    "density": "304",
+    "pref": "Gunma Prefecture"
+  },
+  {
+    "population": "1906464",
+    "area": "7114",
+    "density": "267",
+    "pref": "Okayama Prefecture"
+  },
+  {
+    "population": "1810286",
+    "area": "13783",
+    "density": "131",
+    "pref": "Fukushima Prefecture"
+  },
+  {
+    "population": "1781948",
+    "area": "5774",
+    "density": "308",
+    "pref": "Mie Prefecture"
+  },
+  {
+    "population": "1748134",
+    "area": "7409",
+    "density": "235",
+    "pref": "Kumamoto Prefecture"
+  },
+  {
+    "population": "1564175",
+    "area": "9187",
+    "density": "170",
+    "pref": "Kagoshima Prefecture"
+  },
+  {
+    "population": "1466870",
+    "area": "2281",
+    "density": "643",
+    "pref": "Okinawa Prefecture"
+  },
+  {
+    "population": "1412916",
+    "area": "4017",
+    "density": "351",
+    "pref": "Shiga Prefecture"
+  },
+  {
+    "population": "1342011",
+    "area": "5676",
+    "density": "236",
+    "pref": "Ehime Prefecture"
+  },
+  {
+    "population": "1321805",
+    "area": "3691",
+    "density": "358",
+    "pref": "Nara Prefecture"
+  },
+  {
+    "population": "1314078",
+    "area": "4130",
+    "density": "318",
+    "pref": "Nagasaki Prefecture"
+  },
+  {
+    "population": "1237984",
+    "area": "9645",
+    "density": "128",
+    "pref": "Aomori Prefecture"
+  },
+  {
+    "population": "1210534",
+    "area": "15275",
+    "density": "79",
+    "pref": "Iwate Prefecture"
+  },
+  {
+    "population": "1140573",
+    "area": "4186",
+    "density": "272",
+    "pref": "Ishikawa Prefecture"
+  },
+  {
+    "population": "1136245",
+    "area": "6340",
+    "density": "179",
+    "pref": "Ōita Prefecture"
+  },
+  {
+    "population": "1073054",
+    "area": "7735",
+    "density": "138",
+    "pref": "Miyazaki Prefecture"
+  },
+  {
+    "population": "1044588",
+    "area": "4247",
+    "density": "245",
+    "pref": "Toyama Prefecture"
+  },
+  {
+    "population": "959502",
+    "area": "11637",
+    "density": "82",
+    "pref": "Akita Prefecture"
+  },
+  {
+    "population": "944320",
+    "area": "4724",
+    "density": "199",
+    "pref": "Wakayama Prefecture"
+  },
+  {
+    "population": "809248",
+    "area": "2440",
+    "density": "331",
+    "pref": "Saga Prefecture"
+  },
+  {
+    "population": "778943",
+    "area": "4190",
+    "density": "185",
+    "pref": "Fukui Prefecture"
+  },
+  {
+    "population": "757914",
+    "area": "7103",
+    "density": "106",
+    "pref": "Kōchi Prefecture"
+  },
+  {
+    "population": "728633",
+    "area": "4146",
+    "density": "175",
+    "pref": "Tokushima Prefecture"
+  },
+  {
+    "population": "665205",
+    "area": "6708",
+    "density": "99",
+    "pref": "Shimane Prefecture"
+  },
+  {
+    "population": "570569",
+    "area": "3507",
+    "density": "162",
+    "pref": "Tottori Prefecture"
+  },
+  {
+    "population": "7523",
+    "area": "24",
+    "density": "313",
+    "pref": "Onjuku"
+  }
+]
