@@ -4,39 +4,47 @@
     "area": "2194",
     "density": "6375",
     "pref": "Tokyo",
-    "url": "https://en.wikipedia.org/wiki/Tokyo"
+    "url": "https://en.wikipedia.org/wiki/Tokyo",
+    "group": "1",
+    "color": "green"
   },
   {
     "population": "8823358",
     "area": "1905",
     "density": "4631",
     "pref": "Osaka Prefecture",
-    "url": "https://en.wikipedia.org/wiki/Osaka_Prefecture"
+    "url": "https://en.wikipedia.org/wiki/Osaka_Prefecture",
+    "group": "1"
   },
   {
     "population": "7552873",
     "area": "5172",
     "density": "1460",
     "pref": "Aichi Prefecture",
-    "url": "https://en.wikipedia.org/wiki/Aichi_Prefecture"
+    "url": "https://en.wikipedia.org/wiki/Aichi_Prefecture",
+    "group": "1"
   },
   {
     "population": "7338536",
     "area": "3797",
     "density": "1932",
-    "pref": "Saitama Prefecture"
+    "pref": "Saitama Prefecture",
+    "group": "2"
   },
   {
     "population": "6278060",
     "area": "5157",
     "density": "1217",
-    "pref": "Chiba Prefecture"
+    "pref": "Chiba Prefecture",
+    "group": "2",
+    "color": "red"
   },
   {
     "population": "5469762",
     "area": "8400",
     "density": "651",
-    "pref": "Hyōgo Prefecture"
+    "pref": "Hyōgo Prefecture",
+    "group": "2"
   },
   {
     "population": "5281297",
